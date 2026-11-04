@@ -1,0 +1,2043 @@
+{
+  "model": "qwen2.5:7b",
+  "embedding_model": "nomic-embed-text",
+  "passages_retrieved": 90,
+  "records": [
+    {
+      "name": "almond",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "and pounding-stones where sticks A little almond-oil;"
+      }
+    },
+    {
+      "name": "amaranth",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "Where the autumn lotus in dear fingers shines, And lodh-flowers' April dust on faces rare, Spring amaranth with winter jasmine twines In women's braids, and summer siris fair, The rainy madder in the parting of their hair."
+      }
+    },
+    {
+      "name": "amaranth-bud",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "The amaranth-bud is formed, and yet Its power of growth is gone;"
+      }
+    },
+    {
+      "name": "anklets",
+      "kingdom": "flora",
+      "category": "herb_or_grass",
+      "sources": [
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "The Dynasty of Raghu",
+        "sentence": "The tree remembers how the anklets, tinkling On graceful feet, delighted other years;"
+      }
+    },
+    {
+      "name": "antelope",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "sources": [
+        "Malavika and Agnimitra; Urvashi"
+      ],
+      "evidence": {
+        "source": "Malavika and Agnimitra; Urvashi",
+        "sentence": "He vainly asks help of the creatures whom he meets: a peacock, a cuckoo, a swan, a ruddy goose, a bee, an elephant, a mountain-echo, a river, and an antelope."
+      }
+    },
+    {
+      "name": "ape",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "sources": [
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "The Dynasty of Raghu",
+        "sentence": "The vines that blossomed in my garden bowers, That used to show their graceful beauty, when Girls gently bent their twigs and plucked their flowers, Are broken by wild apes and wilder men."
+      }
+    },
+    {
+      "name": "arrow",
+      "kingdom": "flora",
+      "category": "creeper",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "(Exeunt ambo.) ACT I THE HUNT (Enter, in a chariot, pursuing a deer, KING DUSHYANTA, bow and arrow in hand;"
+      }
+    },
+    {
+      "name": "ashoka tree",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "(He turns to the king.) Wait here, O King, in the shade of the ashoka tree, till I have announced your coming to the sire of Indra."
+      }
+    },
+    {
+      "name": "ashoka-tree",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "Malavika and Agnimitra; Urvashi",
+        "The Cloud-Messenger",
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "Malavika and Agnimitra; Urvashi",
+        "sentence": "The act ends with the announcement that the ashoka-tree has blossomed."
+      }
+    },
+    {
+      "name": "bakul-tree",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "The ashoka-tree, with sweetly dancing lines, The favourite bakul-tree, are near the bower Of amaranth-engirdled jasmine-vines;"
+      }
+    },
+    {
+      "name": "bamboo",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "A golden pole is set between the pair, With crystal perch above its emerald bands As green as young bamboo;"
+      }
+    },
+    {
+      "name": "bark",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "and under trees that bear Bark hermit-dresses on their branches high, A doe that on the buck's horn rubs her eye."
+      }
+    },
+    {
+      "name": "bark dress",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Priyamvada has fastened this bark dress so tight that it hurts."
+      }
+    },
+    {
+      "name": "barken dress",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Beneath the barken dress Upon the shoulder tied, In maiden loveliness Her young breast seems to hide, As when a flower amid The leaves by autumn tossed-- Pale, withered leaves--lies hid, And half its grace is lost."
+      }
+    },
+    {
+      "name": "bear",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "But you, you son of a slave-wench, can go chasing from forest to forest, till you fall into the jaws of some old bear that is looking for a deer or a jackal."
+      }
+    },
+    {
+      "name": "bee",
+      "kingdom": "fauna",
+      "category": "insect",
+      "sources": [
+        "Malavika and Agnimitra; Urvashi",
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "(Jealously.) Eager bee, you lightly skim O'er the eyelid's trembling rim Toward the cheek aquiver."
+      }
+    },
+    {
+      "name": "bees",
+      "kingdom": "fauna",
+      "category": "insect",
+      "sources": [
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "The Dynasty of Raghu",
+        "sentence": "lonely lily, sleeping When musically humming bees are gone."
+      }
+    },
+    {
+      "name": "bison",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "sources": [
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "The Dynasty of Raghu",
+        "sentence": "The water of the pools that used to splash With drumlike music, under maidens' hands, Groans now when bisons from the jungle lash It with their clumsy horns, and roil its sands."
+      }
+    },
+    {
+      "name": "blossom-burdened trees",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "The Seasons",
+        "sentence": "While in his brisk caresses dance The blossom-burdened trees;"
+      }
+    },
+    {
+      "name": "blossoms",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "The Seasons",
+        "sentence": "He ruffles every lily-pond Where blossoms kiss and part, And stirs with lover's fancies fond The young man's eager heart."
+      }
+    },
+    {
+      "name": "blue lotus-leaf",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "The sage who yokes her artless charm With pious pain and grief, Would try to cut the toughest vine With a soft, blue lotus-leaf."
+      }
+    },
+    {
+      "name": "boar",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "\"There's a deer!\" he shouts, \"There's a boar!\" And off he chases on a summer noon through woods where shade is few and far between."
+      }
+    },
+    {
+      "name": "budding blossoms",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "'Twas festival in her pure life When budding blossoms showed;"
+      }
+    },
+    {
+      "name": "budding charms",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "You had better blame your own budding charms for that."
+      }
+    },
+    {
+      "name": "buffalo",
+      "kingdom": "flora",
+      "category": "crop_or_fruit",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "So for to-day The hornèd buffalo may shake The turbid water of the lake;"
+      }
+    },
+    {
+      "name": "carp",
+      "kingdom": "fauna",
+      "category": "fish_or_aquatic",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "one day I was cutting up a carp."
+      }
+    },
+    {
+      "name": "chariot",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Stop the chariot."
+      }
+    },
+    {
+      "name": "cloud",
+      "kingdom": "flora",
+      "category": "creeper",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "VII O cloud, the parching spirit stirs thy pity;"
+      }
+    },
+    {
+      "name": "coals",
+      "kingdom": "flora",
+      "category": "creeper",
+      "sources": [
+        "The Birth of the War-god"
+      ],
+      "evidence": {
+        "source": "The Birth of the War-god",
+        "sentence": "There came a pelting rain of blazing coals With blood and bones of dead men mingled in;"
+      }
+    },
+    {
+      "name": "cobra",
+      "kingdom": "fauna",
+      "category": "reptile",
+      "sources": [
+        "Malavika and Agnimitra; Urvashi",
+        "The Dynasty of Raghu",
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "Malavika and Agnimitra; Urvashi",
+        "sentence": "declaring that he has been bitten by a cobra."
+      }
+    },
+    {
+      "name": "cocoa-nut casket",
+      "kingdom": "flora",
+      "category": "fruit_or_crop",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Well, here is a cocoa-nut casket, hanging on a branch of the mango-tree."
+      }
+    },
+    {
+      "name": "columns",
+      "kingdom": "flora",
+      "category": "creeper",
+      "sources": [
+        "The Birth of the War-god"
+      ],
+      "evidence": {
+        "source": "The Birth of the War-god",
+        "sentence": "He saw beside the bathing-pools the bowers Defiled by elephants grown overbold, Strewn with uprooted golden lotus-flowers, No longer bright with plumage of pure gold, Rough with great, jewelled columns overthrown, Rank with invasion of the untrimmed grass: Shame strove with sorrow at the ruin shown, For heaven's foe had brought these things to pass."
+      }
+    },
+    {
+      "name": "conch",
+      "kingdom": "flora",
+      "category": "crop_or_fruit",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "These are the signs--recall them o'er and o'er, My clever friend--by which the house is known, And the Conch and Lotus painted by the door: Alas!"
+      }
+    },
+    {
+      "name": "coral-tree",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "And near it grows a little coral-tree, Bending 'neath many a blossom's clustered star, Loved by my bride as children of adoption are."
+      }
+    },
+    {
+      "name": "coral-trees",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "We have entered the hermitage of the ancient sage, whose wife Aditi tends the coral-trees."
+      }
+    },
+    {
+      "name": "cow",
+      "kingdom": "flora",
+      "category": "creeper",
+      "sources": [
+        "Shakuntala",
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "It is beautiful, for it has just been swept, and near at hand is the cow that yields the milk of sacrifice."
+      }
+    },
+    {
+      "name": "crane",
+      "kingdom": "fauna",
+      "category": "bird",
+      "sources": [
+        "The Cloud-Messenger",
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "The Dynasty of Raghu",
+        "sentence": "over country roads past fragrant lotus-ponds and screaming peacocks and trustful deer, under archways formed without supporting pillars by the cranes, through villages where they receive the blessings of the people."
+      }
+    },
+    {
+      "name": "cranes",
+      "kingdom": "fauna",
+      "category": "bird",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "While favouring breezes waft thee gently forth, And while upon thy left the plover sings His proud, sweet song, the cranes who know thy worth Will meet thee in the sky on joyful wings And for delights anticipated join their rings."
+      }
+    },
+    {
+      "name": "cuckoo",
+      "kingdom": "fauna",
+      "category": "bird",
+      "sources": [
+        "Malavika and Agnimitra; Urvashi",
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Father, The trees are answering your prayer In cooing cuckoo-song, Bidding Shakuntala farewell, Their sister for so long."
+      }
+    },
+    {
+      "name": "cuscus-salve",
+      "kingdom": "flora",
+      "category": "herb_or_grass",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "(He walks and looks about, then speaks to some one not visible.) Priyamvada, for whom are you carrying this cuscus-salve and the fibrous lotus-leaves?"
+      }
+    },
+    {
+      "name": "deer",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "sources": [
+        "Shakuntala",
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Your charming song had carried me away As the deer enticed the hero of our play."
+      }
+    },
+    {
+      "name": "deodars",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "LIII If, born from friction of the deodars, A scudding fire should prove the mountain's bane, Singeing the tails of yaks with fiery stars, Quench thou the flame with"
+      }
+    },
+    {
+      "name": "elephant",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "sources": [
+        "Malavika and Agnimitra; Urvashi",
+        "The Birth of the War-god",
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "Malavika and Agnimitra; Urvashi",
+        "sentence": "He vainly asks help of the creatures whom he meets: a peacock, a cuckoo, a swan, a ruddy goose, a bee, an elephant, a mountain-echo, a river, and an antelope."
+      }
+    },
+    {
+      "name": "elephants",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "sources": [
+        "Shakuntala",
+        "The Birth of the War-god"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "And the horses and the elephants make such a noise that I can't even be comfortable at night."
+      }
+    },
+    {
+      "name": "emerald",
+      "kingdom": "flora",
+      "category": "creeper",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "A pool is near, to which an emerald stair Leads down, with blooming lotuses of gold Whose stalks are polished beryl;"
+      }
+    },
+    {
+      "name": "fairies",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "O trees of the pious grove, in which the fairies dwell, She would not drink till she had wet Your roots, a sister's duty, Nor pluck your flowers;"
+      }
+    },
+    {
+      "name": "fawn",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "and fearless fawns Move softly on the close-cropped forest lawns."
+      }
+    },
+    {
+      "name": "fawns",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "sources": [
+        "Shakuntala",
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "and fearless fawns Move softly on the close-cropped forest lawns."
+      }
+    },
+    {
+      "name": "fevered limbs",
+      "kingdom": "flora",
+      "category": "limb",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Leave not the blossom-dotted couch To wander in the midday heat, With lotus-petals on your breast, With fevered limbs and stumbling feet."
+      }
+    },
+    {
+      "name": "fig",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "the breathing acre grants New odours, and the forest figs hang sleek, With pleasant whistlings drunk by elephants Through long and hollow trunks, will gently seek To waft thee onward fragrantly to Holy Peak."
+      }
+    },
+    {
+      "name": "fires",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "fires around the altar kindle, And at their margins sacred grass is piled;"
+      }
+    },
+    {
+      "name": "flowers of grasses",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "The Seasons",
+        "sentence": "In flowers of grasses she is clad;"
+      }
+    },
+    {
+      "name": "frog",
+      "kingdom": "flora",
+      "category": "amphibian",
+      "sources": [
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "The Seasons",
+        "sentence": "The cobra does not hunt for food Nor heed the frog at all Who finds beneath the serpent's hood A sheltering parasol."
+      }
+    },
+    {
+      "name": "ganges",
+      "kingdom": "fauna",
+      "category": "fish_or_aquatic",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "Then, in familiar Alaka find rest, Down whom the Ganges' silken river swirls, Whose towers cling to her mountain lover's breast, While clouds adorn her face like glossy curls And streams of rain like strings of close-inwoven pearls."
+      }
+    },
+    {
+      "name": "ganges river",
+      "kingdom": "flora",
+      "category": "creeper",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "L The Ganges River, which originates in heaven."
+      }
+    },
+    {
+      "name": "girdle",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "she has loosened her girdle, and she seems a little fatigued."
+      }
+    },
+    {
+      "name": "goddess",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "He will prefer thee to his mantle gory And spare his grateful goddess-bride's alarm, Whose eager gaze will manifest no fear of harm."
+      }
+    },
+    {
+      "name": "hermit-girl",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "he found a hermit-girl named Shakuntala."
+      }
+    },
+    {
+      "name": "hermitage",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "O King, this deer belongs to the hermitage, and must not be killed."
+      }
+    },
+    {
+      "name": "heron",
+      "kingdom": "fauna",
+      "category": "bird",
+      "sources": [
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "The Seasons",
+        "sentence": "when heron-scream Is rare but sweet, when passion leaps And paints a livelier dream."
+      }
+    },
+    {
+      "name": "herons",
+      "kingdom": "fauna",
+      "category": "bird",
+      "sources": [
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "The Seasons",
+        "sentence": "While villages, with bustling cry, Bring home the ripened corn, And herons wheel through wintry sky, Forget sad thoughts forlorn."
+      }
+    },
+    {
+      "name": "hill",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "holy foot-hill lands Of great Himalaya's sacred ranges, where The yaks are seen;"
+      }
+    },
+    {
+      "name": "himalaya mountains",
+      "kingdom": "flora",
+      "category": "creeper",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "Its fall is broken by the head of Shiva, who stands on the Himalaya Mountains;"
+      }
+    },
+    {
+      "name": "holiest hermits",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "(He does so.) Before you, O King, are the groves where the holiest hermits lead their self-denying life."
+      }
+    },
+    {
+      "name": "jackal",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "sources": [
+        "Shakuntala",
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "But you, you son of a slave-wench, can go chasing from forest to forest, till you fall into the jaws of some old bear that is looking for a deer or a jackal."
+      }
+    },
+    {
+      "name": "jackals",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "sources": [
+        "The Birth of the War-god"
+      ],
+      "evidence": {
+        "source": "The Birth of the War-god",
+        "sentence": "And in the very circle of the sun Were phantom jackals, snarling to be fed;"
+      }
+    },
+    {
+      "name": "jasmine",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "Where the autumn lotus in dear fingers shines, And lodh-flowers' April dust on faces rare, Spring amaranth with winter jasmine twines In women's braids, and summer siris fair, The rainy madder in the parting of their hair."
+      }
+    },
+    {
+      "name": "jasmine blossom",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "You are delicate as a jasmine blossom, yet he tells you to fill the trenches about the trees."
+      }
+    },
+    {
+      "name": "jasmine-blossoms",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "Beyond, the province of Ten Cities lies Whose women, charming with their glances rash, Will view thine image with bright, eager eyes, Dark eyes that dance beneath the lifted lash, As when black bees round nodding jasmine-blossoms flash."
+      }
+    },
+    {
+      "name": "jasmine-vine",
+      "kingdom": "flora",
+      "category": "creeper",
+      "sources": [
+        "Shakuntala",
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Here is the jasmine-vine that you named Light of the Grove."
+      }
+    },
+    {
+      "name": "jasmines",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "XXII Though thou be pledged to ease my darling's pain, Yet I foresee delay on every hill Where jasmines blow, and where the peacock-train Cries forth with joyful tears a welcome shrill;"
+      }
+    },
+    {
+      "name": "jujube-trees",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "And again: On jujube-trees the blushing dewdrops falter;"
+      }
+    },
+    {
+      "name": "jumna river",
+      "kingdom": "flora",
+      "category": "creeper",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "LI The dark cloud is permitted to mingle with the clear stream of Ganges, as the muddy Jumna River does near the city now called Allahabad."
+      }
+    },
+    {
+      "name": "karkandhu-fruit",
+      "kingdom": "flora",
+      "category": "fruit",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "a mouth as red As red karkandhu-fruit;"
+      }
+    },
+    {
+      "name": "ketak",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "The Seasons",
+        "sentence": "Its ketak-blossom's opening sheath Is like a smile put on To"
+      }
+    },
+    {
+      "name": "ketak-blossom",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "The Seasons",
+        "sentence": "Its ketak-blossom's opening sheath Is like a smile put on To greet the rain's reviving breath, Now pain and heat are gone."
+      }
+    },
+    {
+      "name": "lilies",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "Shakuntala",
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "And again: Night-blooming lilies, when the moon is hidden, Have naught but memories of beauty left."
+      }
+    },
+    {
+      "name": "lily",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "Shakuntala",
+        "The Dynasty of Raghu",
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Or take your lily feet upon my knee And rub them till you rest more easily?"
+      }
+    },
+    {
+      "name": "lily-dotted lakes",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Invisible beings, May lily-dotted lakes delight your eye;"
+      }
+    },
+    {
+      "name": "lily-pollen",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "They bathe religiously in pools Which golden lily-pollen cools;"
+      }
+    },
+    {
+      "name": "lily-pond",
+      "kingdom": "flora",
+      "category": "creeper",
+      "sources": [
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "The Seasons",
+        "sentence": "He ruffles every lily-pond Where blossoms kiss and part, And stirs with lover's fancies fond The young man's eager heart."
+      }
+    },
+    {
+      "name": "lion",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "sources": [
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "The Dynasty of Raghu",
+        "sentence": "On the twenty-second day the cow is attacked by a lion, and when the king hastens to draw an arrow, his arm is magically numbed, so that he stands helpless."
+      }
+    },
+    {
+      "name": "lion cub",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "He drags a struggling lion cub, The lioness' milk half-sucked, half-missed, Towzles his mane, and tries to drub Him tame with small, imperious fist."
+      }
+    },
+    {
+      "name": "lioness",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "He drags a struggling lion cub, The lioness' milk half-sucked, half-missed, Towzles his mane, and tries to drub Him tame with small, imperious fist."
+      }
+    },
+    {
+      "name": "lodh-flowers",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "Where the autumn lotus in dear fingers shines, And lodh-flowers' April dust on faces rare, Spring amaranth with winter jasmine twines In women's braids, and summer siris fair, The rainy madder in the parting of their hair."
+      }
+    },
+    {
+      "name": "lotus",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "Shakuntala",
+        "The Cloud-Messenger",
+        "The Dynasty of Raghu",
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Here is a lotus-leaf, glossy as a parrot's breast."
+      }
+    },
+    {
+      "name": "lotus-bracelet",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Why, I was so weak and ill that when the lotus-bracelet fell off, I did not even notice it."
+      }
+    },
+    {
+      "name": "lotus-flower",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "Visit the field where to this very hour Lie bones that sank beneath the soldier's blade, Where Arjuna discharged his arrowy shower On men, as thou thy rain-jets on the lotus-flower."
+      }
+    },
+    {
+      "name": "lotus-flowers",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "The Birth of the War-god",
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "The Dynasty of Raghu",
+        "sentence": "There follows a description of the happy family, of which a few stanzas are given here: The king drank pleasure from him late and soon With eyes that stared like windless lotus-flowers;"
+      }
+    },
+    {
+      "name": "lotus-leaf",
+      "kingdom": "flora",
+      "category": "leaf",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Here is a lotus-leaf, glossy as a parrot's breast."
+      }
+    },
+    {
+      "name": "lotus-leaves",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "(He walks and looks about, then speaks to some one not visible.) Priyamvada, for whom are you carrying this cuscus-salve and the fibrous lotus-leaves?"
+      }
+    },
+    {
+      "name": "lotus-petals",
+      "kingdom": "flora",
+      "category": "petal",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Leave not the blossom-dotted couch To wander in the midday heat, With lotus-petals on your breast, With fevered limbs and stumbling feet."
+      }
+    },
+    {
+      "name": "lotus-pollen",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "May soft winds blow the lotus-pollen nigh;"
+      }
+    },
+    {
+      "name": "lute",
+      "kingdom": "flora",
+      "category": "creeper",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "Or holds a lute on her neglected skirt, And tries to sing of me, and tries in vain;"
+      }
+    },
+    {
+      "name": "madder",
+      "kingdom": "flora",
+      "category": "herb_or_grass",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "XXI Spying the madder on the banks, half brown, Half green with shoots that struggle to the birth, Nibbling where early plantain-buds hang down, Scenting the sweet, sweet smell of forest earth, The deer will trace thy misty track that ends the dearth."
+      }
+    },
+    {
+      "name": "madder-bush",
+      "kingdom": "flora",
+      "category": "herb_or_grass",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "XXV A moment rest on Nichais' mountain then, Where madder-bushes don their blossom coat As thrilling to thy touch;"
+      }
+    },
+    {
+      "name": "madder-flowers",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "The Dynasty of Raghu",
+        "sentence": "There is the mountain where the peacocks' screaming, And branches smitten fragrant by the rain, And madder-flowers that woke at last from dreaming, Made unendurable my lonely pain;"
+      }
+    },
+    {
+      "name": "malini",
+      "kingdom": "flora",
+      "category": "creeper",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Here, along the bank of the Malini, you may see the hermitage of Father Kanva, over which Shakuntala presides, so to speak, as guardian deity."
+      }
+    },
+    {
+      "name": "mango",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "Shakuntala",
+        "The Birth of the War-god",
+        "The Cloud-Messenger",
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Enter a maid, gazing at a mango branch, and behind her, a second.) First maid."
+      }
+    },
+    {
+      "name": "mango branches",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "The mango branches are in bloom, Yet pollen does not form;"
+      }
+    },
+    {
+      "name": "mango-blossom",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Why, little bee, you know that the cuckoo goes crazy with delight when she sees the mango-blossom."
+      }
+    },
+    {
+      "name": "mango-blossoms",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Do you dare pluck the mango-blossoms?"
+      }
+    },
+    {
+      "name": "mango-flower",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "Shakuntala",
+        "The Birth of the War-god"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "You who kissed the mango-flower, Honey-loving bee, Gave her all your passion's power, Ah, so tenderly!"
+      }
+    },
+    {
+      "name": "mango-tree",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "Shakuntala",
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Oh, girls, that mango-tree is trying to tell me something with his branches that move in the wind like fingers."
+      }
+    },
+    {
+      "name": "mango-twig",
+      "kingdom": "flora",
+      "category": "creeper",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "First mango-twig, so pink, so green, First living breath of spring, You are sacrificed as soon as seen, A festival offering."
+      }
+    },
+    {
+      "name": "misfortunes",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Beneath their sacrificial odours dwindle Misfortunes."
+      }
+    },
+    {
+      "name": "moon",
+      "kingdom": "fauna",
+      "category": "insect",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "The lotus-chain is dazzling white As is the slender moon at night."
+      }
+    },
+    {
+      "name": "mountain-echo",
+      "kingdom": "fauna",
+      "category": "insect",
+      "sources": [
+        "Malavika and Agnimitra; Urvashi"
+      ],
+      "evidence": {
+        "source": "Malavika and Agnimitra; Urvashi",
+        "sentence": "He vainly asks help of the creatures whom he meets: a peacock, a cuckoo, a swan, a ruddy goose, a bee, an elephant, a mountain-echo, a river, and an antelope."
+      }
+    },
+    {
+      "name": "mushroom",
+      "kingdom": "flora",
+      "category": "herb_or_grass",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "And when they hear thy welcome thunders break, When mushrooms sprout to greet thy fertile weeks, The swans who long"
+      }
+    },
+    {
+      "name": "nightingales",
+      "kingdom": "fauna",
+      "category": "bird",
+      "sources": [
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "The Dynasty of Raghu",
+        "sentence": "Your low, sweet voice to nightingales was given;"
+      }
+    },
+    {
+      "name": "nipa",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "The Seasons",
+        "sentence": "The forest seems to show its glee In flowering nipa plants;"
+      }
+    },
+    {
+      "name": "nipa plants",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "The Seasons",
+        "sentence": "The forest seems to show its glee In flowering nipa plants;"
+      }
+    },
+    {
+      "name": "ocean",
+      "kingdom": "flora",
+      "category": "creeper",
+      "sources": [
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "The Dynasty of Raghu",
+        "sentence": "Thus, as they fly over the sea: The form of ocean, infinitely changing, Clasping the world and all its gorgeous state, Unfathomed by"
+      }
+    },
+    {
+      "name": "panic grass",
+      "kingdom": "flora",
+      "category": "herb_or_grass",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Now you wrap it in a lotus-leaf, and I will get yellow pigment and earth from a sacred spot and blades of panic grass for the happy ceremony."
+      }
+    },
+    {
+      "name": "parrot",
+      "kingdom": "fauna",
+      "category": "bird",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Why, here Are rice-grains, dropped from bills of parrot chicks Beneath the trees;"
+      }
+    },
+    {
+      "name": "peacock",
+      "kingdom": "fauna",
+      "category": "bird",
+      "sources": [
+        "Malavika and Agnimitra; Urvashi",
+        "Shakuntala",
+        "The Cloud-Messenger",
+        "The Dynasty of Raghu",
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "The peacock wakes and leaves the cottage thatch;"
+      }
+    },
+    {
+      "name": "peacock-train",
+      "kingdom": "fauna",
+      "category": "bird",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "XXII Though thou be pledged to ease my darling's pain, Yet I foresee delay on every hill Where jasmines blow, and where the peacock-train Cries forth with joyful tears a welcome shrill;"
+      }
+    },
+    {
+      "name": "perfumed lotus-chain",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "The perfumed lotus-chain That once was worn by her Fetters and keeps my heart A hopeless prisoner."
+      }
+    },
+    {
+      "name": "picture",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Please hold the picture, Madhavya, while I am gone."
+      }
+    },
+    {
+      "name": "pink water-lily",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "But why does she cover her face with fingers lovely as the pink water-lily?"
+      }
+    },
+    {
+      "name": "pious grove",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "O trees of the pious grove, in which the fairies dwell, She would not drink till she had wet Your roots, a sister's duty, Nor pluck your flowers;"
+      }
+    },
+    {
+      "name": "plantain-buds",
+      "kingdom": "flora",
+      "category": "creeper",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "XXI Spying the madder on the banks, half brown, Half green with shoots that struggle to the birth, Nibbling where early plantain-buds hang down, Scenting the sweet, sweet smell of forest earth, The deer will trace thy misty track that ends the dearth."
+      }
+    },
+    {
+      "name": "plover",
+      "kingdom": "fauna",
+      "category": "bird",
+      "sources": [
+        "Shakuntala",
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Plovers that fly from mountain-caves, Steeds that quick-flashing lightning laves, And chariot-wheels that drip with spray-- A path o'er pregnant clouds betray."
+      }
+    },
+    {
+      "name": "quiver",
+      "kingdom": "flora",
+      "category": "creeper",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Restore your arrow to the quiver;"
+      }
+    },
+    {
+      "name": "range",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "holy foot-hill lands Of great Himalaya's sacred ranges, where The yaks are seen;"
+      }
+    },
+    {
+      "name": "reed",
+      "kingdom": "flora",
+      "category": "creeper",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "its capital Vidisha, on the banks of Reed River."
+      }
+    },
+    {
+      "name": "reva river",
+      "kingdom": "flora",
+      "category": "creeper",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "his crest a moment bide, Then fly, rain-quickened, to the Reva river Which gaily breaks on Vindhya's rocky side, Like painted streaks upon an elephant's dingy hide."
+      }
+    },
+    {
+      "name": "ribbon",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "for the ribbon is loosened."
+      }
+    },
+    {
+      "name": "rice-stems",
+      "kingdom": "flora",
+      "category": "crop_or_fruit",
+      "sources": [
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "The Seasons",
+        "sentence": "AUTUMN The autumn comes, a maiden fair In slenderness and grace, With nodding rice-stems in her hair And lilies in her face."
+      }
+    },
+    {
+      "name": "river",
+      "kingdom": "flora",
+      "category": "creeper",
+      "sources": [
+        "Malavika and Agnimitra; Urvashi",
+        "Shakuntala",
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "And river-paths that are besprinkled yet From trickling hermit-garments, clean and wet."
+      }
+    },
+    {
+      "name": "roots",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "O trees of the pious grove, in which the fairies dwell, She would not drink till she had wet Your roots, a sister's duty, Nor pluck your flowers;"
+      }
+    },
+    {
+      "name": "rose-apples",
+      "kingdom": "flora",
+      "category": "fruit_or_crop",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "XXIII The Dasharna country, At thine approach, Dasharna land is blest With hedgerows where gay buds are all aglow, With village trees alive with many a nest Abuilding by the old familiar crow, With lingering swans, with ripe rose-apples' darker show."
+      }
+    },
+    {
+      "name": "ruby",
+      "kingdom": "flora",
+      "category": "crop_or_fruit",
+      "sources": [
+        "Malavika and Agnimitra; Urvashi"
+      ],
+      "evidence": {
+        "source": "Malavika and Agnimitra; Urvashi",
+        "sentence": "At last he finds a brilliant ruby in a cleft of the rocks, and when about to throw it away, is told by a hermit to preserve it: for this is the gem of reunion, and one who possesses it will soon be reunited with his love."
+      }
+    },
+    {
+      "name": "ruddy goose",
+      "kingdom": "fauna",
+      "category": "bird",
+      "sources": [
+        "Malavika and Agnimitra; Urvashi"
+      ],
+      "evidence": {
+        "source": "Malavika and Agnimitra; Urvashi",
+        "sentence": "He vainly asks help of the creatures whom he meets: a peacock, a cuckoo, a swan, a ruddy goose, a bee, an elephant, a mountain-echo, a river, and an antelope."
+      }
+    },
+    {
+      "name": "sacred grass",
+      "kingdom": "flora",
+      "category": "herb_or_grass",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "(Exeunt ambo.) ACT III THE LOVE-MAKING (Enter a pupil, with sacred grass for the sacrifice.) Pupil (with meditative astonishment)."
+      }
+    },
+    {
+      "name": "sarasvati",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "He preferred to spend the time in drinking from the holy river Sarasvati, though little accustomed to any other drink than wine."
+      }
+    },
+    {
+      "name": "serpent",
+      "kingdom": "flora",
+      "category": "creeper",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Sun-staring with dim eyes that know no rest, The dead skin of a serpent on his breast: So long he stood unmoved, insensate there That birds build nests within his mat of hair."
+      }
+    },
+    {
+      "name": "serpent-ring",
+      "kingdom": "fauna",
+      "category": "reptile",
+      "sources": [
+        "Malavika and Agnimitra; Urvashi"
+      ],
+      "evidence": {
+        "source": "Malavika and Agnimitra; Urvashi",
+        "sentence": "Imploring the king to care for his childless mother, he awakens genuine sympathy in the queen, who readily parts with her serpent-ring, supposed to be efficacious in charming away the effects of snake-poison."
+      }
+    },
+    {
+      "name": "shade-trees",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "May shade-trees bid the heat of noonday cease;"
+      }
+    },
+    {
+      "name": "shakuntala",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "That Shakuntala has become seriously ill from the heat, and that these things are to relieve her suffering?"
+      }
+    },
+    {
+      "name": "siris",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "Where the autumn lotus in dear fingers shines, And lodh-flowers' April dust on faces rare, Spring amaranth with winter jasmine twines In women's braids, and summer siris fair, The rainy madder in the parting of their hair."
+      }
+    },
+    {
+      "name": "siris-blossom",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "The siris-blossom, fastened o'er"
+      }
+    },
+    {
+      "name": "siris-blossoms",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "How comes it that your heart is hard As stalks that siris-blossoms guard?"
+      }
+    },
+    {
+      "name": "siris-flowers",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Your body, soft as siris-flowers, Engages passion's utmost powers;"
+      }
+    },
+    {
+      "name": "snake",
+      "kingdom": "fauna",
+      "category": "reptile",
+      "sources": [
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "The Seasons",
+        "sentence": "The enmity is quite forgot Of peacock and of snake;"
+      }
+    },
+    {
+      "name": "snakes",
+      "kingdom": "fauna",
+      "category": "reptile",
+      "sources": [
+        "The Birth of the War-god"
+      ],
+      "evidence": {
+        "source": "The Birth of the War-god",
+        "sentence": "And monstrous snakes, as black as powdered soot, Spitting hot poison high into the air, Brought terror to the army underfoot, And crept and coiled and crawled before them there."
+      }
+    },
+    {
+      "name": "somatirtha",
+      "kingdom": "flora",
+      "category": "creeper",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "No, he has left his daughter to welcome guests, and has just gone to Somatirtha, to"
+      }
+    },
+    {
+      "name": "spiders",
+      "kingdom": "fauna",
+      "category": "insect",
+      "sources": [
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "The Dynasty of Raghu",
+        "sentence": "The windows are not lit by lamps at night, Nor by fair faces shining in the day, But webs of spiders dim the delicate, light Smoke-tracery with one mere daub of grey."
+      }
+    },
+    {
+      "name": "spring-creeper",
+      "kingdom": "flora",
+      "category": "creeper",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Here is the spring-creeper that Father Kanva tended with his own hands--just as he did you."
+      }
+    },
+    {
+      "name": "spring-creepers",
+      "kingdom": "flora",
+      "category": "creeper",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Well, you told one of the maids, the clever painter, that you would spend this hour in the bower of spring-creepers."
+      }
+    },
+    {
+      "name": "starling",
+      "kingdom": "fauna",
+      "category": "bird",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "Or asks the caged, sweetly-singing starling: \"Do you remember, dear, our lord?"
+      }
+    },
+    {
+      "name": "stream",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "The stream of Malini, and on its sands The swan-pairs resting;"
+      }
+    },
+    {
+      "name": "stumbling feet",
+      "kingdom": "flora",
+      "category": "limb",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Leave not the blossom-dotted couch To wander in the midday heat, With lotus-petals on your breast, With fevered limbs and stumbling feet."
+      }
+    },
+    {
+      "name": "swan",
+      "kingdom": "fauna",
+      "category": "bird",
+      "sources": [
+        "Malavika and Agnimitra; Urvashi",
+        "Shakuntala",
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "The stream of Malini, and on its sands The swan-pairs resting;"
+      }
+    },
+    {
+      "name": "swans",
+      "kingdom": "fauna",
+      "category": "bird",
+      "sources": [
+        "The Cloud-Messenger",
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "The Dynasty of Raghu",
+        "sentence": "Your idly graceful movement to the swans;"
+      }
+    },
+    {
+      "name": "thunderbolt",
+      "kingdom": "flora",
+      "category": "creeper",
+      "sources": [
+        "The Birth of the War-god"
+      ],
+      "evidence": {
+        "source": "The Birth of the War-god",
+        "sentence": "There fell, with darting flame and blinding flash Lighting the farthest heavens, from on high A thunderbolt whose agonising crash Brought fear and shuddering from a cloudless sky."
+      }
+    },
+    {
+      "name": "tiger",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "sources": [
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "The Dynasty of Raghu",
+        "sentence": "On stairways where the women once were glad To leave their pink and graceful footprints, here Unwelcome, blood-stained paws of tigers pad, Fresh-smeared from slaughter of the forest deer."
+      }
+    },
+    {
+      "name": "toughest vine",
+      "kingdom": "flora",
+      "category": "creeper",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "The sage who yokes her artless charm With pious pain and grief, Would try to cut the toughest vine With a soft, blue lotus-leaf."
+      }
+    },
+    {
+      "name": "tree of wishing",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "then the tree of wishing shake, Whose branches like silk garments flutter wide: With sports like these, O cloud, enjoy the mountain side."
+      }
+    },
+    {
+      "name": "trumpet-flower",
+      "kingdom": "flora",
+      "category": "flower",
+      "sources": [
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "The Seasons",
+        "sentence": "Dear maiden of the graceful song, To you may summer's power Bring moonbeams clear and garlands long And breath of trumpet-flower, Bring lakes that countless lilies dot, Refreshing water-sprays, Sweet friends at evening, and a spot Cool after burning days."
+      }
+    },
+    {
+      "name": "vine-bride",
+      "kingdom": "flora",
+      "category": "creeper",
+      "sources": [
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "The Dynasty of Raghu",
+        "sentence": "Remember how you planned to make a wedding, Giving the vine-bride to her mango-tree;"
+      }
+    },
+    {
+      "name": "vines",
+      "kingdom": "flora",
+      "category": "creeper",
+      "sources": [
+        "The Dynasty of Raghu",
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "The Dynasty of Raghu",
+        "sentence": "Your grace to fluttering vines, dear wife in heaven;"
+      }
+    },
+    {
+      "name": "wishing-tree",
+      "kingdom": "flora",
+      "category": "tree",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "maids whose charm no blemish mars Climb to the open crystal balcony Inlaid with flower-like sparkling of the stars, And drink the love-wine from the wishing-tree, And listen to the drums' deep-thundering dignity."
+      }
+    },
+    {
+      "name": "yak",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "holy foot-hill lands Of great Himalaya's sacred ranges, where The yaks are seen;"
+      }
+    },
+    {
+      "name": "yaks",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "LIII If, born from friction of the deodars, A scudding fire should prove the mountain's bane, Singeing the tails of yaks with fiery stars, Quench thou the flame with"
+      }
+    }
+  ],
+  "rejected_not_in_text": [
+    {
+      "name": "kol-birds",
+      "source": "Shakuntala"
+    },
+    {
+      "name": "indras bow",
+      "source": "The Cloud-Messenger"
+    },
+    {
+      "name": "reva or nerbudda river",
+      "source": "The Cloud-Messenger"
+    },
+    {
+      "name": "lily",
+      "source": "The Seasons"
+    }
+  ]
+}

@@ -1,0 +1,2179 @@
+{
+  "model": "qwen2.5:7b",
+  "embedding_model": "nomic-embed-text",
+  "records": [
+    {
+      "name": "almond",
+      "kingdom": "flora",
+      "category": "tree",
+      "variants": [
+        "almond"
+      ],
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "and pounding-stones where sticks A little almond-oil;"
+      }
+    },
+    {
+      "name": "amaranth",
+      "kingdom": "flora",
+      "category": "flower",
+      "variants": [
+        "amaranth",
+        "amaranth-bud"
+      ],
+      "sources": [
+        "Shakuntala",
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "Where the autumn lotus in dear fingers shines, And lodh-flowers' April dust on faces rare, Spring amaranth with winter jasmine twines In women's braids, and summer siris fair, The rainy madder in the parting of their hair."
+      }
+    },
+    {
+      "name": "antelope",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "variants": [
+        "antelope"
+      ],
+      "sources": [
+        "Malavika and Agnimitra; Urvashi"
+      ],
+      "evidence": {
+        "source": "Malavika and Agnimitra; Urvashi",
+        "sentence": "He vainly asks help of the creatures whom he meets: a peacock, a cuckoo, a swan, a ruddy goose, a bee, an elephant, a mountain-echo, a river, and an antelope."
+      }
+    },
+    {
+      "name": "ape",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "variants": [
+        "ape"
+      ],
+      "sources": [
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "The Dynasty of Raghu",
+        "sentence": "The vines that blossomed in my garden bowers, That used to show their graceful beauty, when Girls gently bent their twigs and plucked their flowers, Are broken by wild apes and wilder men."
+      }
+    },
+    {
+      "name": "ashoka",
+      "kingdom": "flora",
+      "category": "tree",
+      "variants": [
+        "ashoka tree",
+        "ashoka-tree"
+      ],
+      "sources": [
+        "Malavika and Agnimitra; Urvashi",
+        "Shakuntala",
+        "The Cloud-Messenger",
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "(He turns to the king.) Wait here, O King, in the shade of the ashoka tree, till I have announced your coming to the sire of Indra."
+      }
+    },
+    {
+      "name": "bakul",
+      "kingdom": "flora",
+      "category": "tree",
+      "variants": [
+        "bakul-tree"
+      ],
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "The ashoka-tree, with sweetly dancing lines, The favourite bakul-tree, are near the bower Of amaranth-engirdled jasmine-vines;"
+      }
+    },
+    {
+      "name": "bamboo",
+      "kingdom": "flora",
+      "category": "tree",
+      "variants": [
+        "bamboo"
+      ],
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "A golden pole is set between the pair, With crystal perch above its emerald bands As green as young bamboo;"
+      }
+    },
+    {
+      "name": "bear",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "variants": [
+        "bear"
+      ],
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "But you, you son of a slave-wench, can go chasing from forest to forest, till you fall into the jaws of some old bear that is looking for a deer or a jackal."
+      }
+    },
+    {
+      "name": "bee",
+      "kingdom": "fauna",
+      "category": "insect",
+      "variants": [
+        "bee",
+        "bees"
+      ],
+      "sources": [
+        "Malavika and Agnimitra; Urvashi",
+        "Shakuntala",
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "(Jealously.) Eager bee, you lightly skim O'er the eyelid's trembling rim Toward the cheek aquiver."
+      }
+    },
+    {
+      "name": "bison",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "variants": [
+        "bison"
+      ],
+      "sources": [
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "The Dynasty of Raghu",
+        "sentence": "The water of the pools that used to splash With drumlike music, under maidens' hands, Groans now when bisons from the jungle lash It with their clumsy horns, and roil its sands."
+      }
+    },
+    {
+      "name": "boar",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "variants": [
+        "boar"
+      ],
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "\"There's a deer!\" he shouts, \"There's a boar!\" And off he chases on a summer noon through woods where shade is few and far between."
+      }
+    },
+    {
+      "name": "buffalo",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "variants": [
+        "buffalo"
+      ],
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "So for to-day The hornèd buffalo may shake The turbid water of the lake;"
+      }
+    },
+    {
+      "name": "carp",
+      "kingdom": "fauna",
+      "category": "fish_or_aquatic",
+      "variants": [
+        "carp"
+      ],
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "one day I was cutting up a carp."
+      }
+    },
+    {
+      "name": "cobra",
+      "kingdom": "fauna",
+      "category": "reptile",
+      "variants": [
+        "cobra"
+      ],
+      "sources": [
+        "Malavika and Agnimitra; Urvashi",
+        "The Dynasty of Raghu",
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "Malavika and Agnimitra; Urvashi",
+        "sentence": "declaring that he has been bitten by a cobra."
+      }
+    },
+    {
+      "name": "coral tree",
+      "kingdom": "flora",
+      "category": "tree",
+      "variants": [
+        "coral-tree",
+        "coral-trees"
+      ],
+      "sources": [
+        "Shakuntala",
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "And near it grows a little coral-tree, Bending 'neath many a blossom's clustered star, Loved by my bride as children of adoption are."
+      }
+    },
+    {
+      "name": "cow",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "variants": [
+        "cow"
+      ],
+      "sources": [
+        "Shakuntala",
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "It is beautiful, for it has just been swept, and near at hand is the cow that yields the milk of sacrifice."
+      }
+    },
+    {
+      "name": "crane",
+      "kingdom": "fauna",
+      "category": "bird",
+      "variants": [
+        "crane",
+        "cranes"
+      ],
+      "sources": [
+        "The Cloud-Messenger",
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "The Dynasty of Raghu",
+        "sentence": "over country roads past fragrant lotus-ponds and screaming peacocks and trustful deer, under archways formed without supporting pillars by the cranes, through villages where they receive the blessings of the people."
+      }
+    },
+    {
+      "name": "cuckoo",
+      "kingdom": "fauna",
+      "category": "bird",
+      "variants": [
+        "cuckoo"
+      ],
+      "sources": [
+        "Malavika and Agnimitra; Urvashi",
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Father, The trees are answering your prayer In cooing cuckoo-song, Bidding Shakuntala farewell, Their sister for so long."
+      }
+    },
+    {
+      "name": "deer",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "variants": [
+        "deer",
+        "fawn",
+        "fawns"
+      ],
+      "sources": [
+        "Shakuntala",
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Your charming song had carried me away As the deer enticed the hero of our play."
+      }
+    },
+    {
+      "name": "deodar",
+      "kingdom": "flora",
+      "category": "tree",
+      "variants": [
+        "deodars"
+      ],
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "LIII If, born from friction of the deodars, A scudding fire should prove the mountain's bane, Singeing the tails of yaks with fiery stars, Quench thou the flame with"
+      }
+    },
+    {
+      "name": "elephant",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "variants": [
+        "elephant",
+        "elephants"
+      ],
+      "sources": [
+        "Malavika and Agnimitra; Urvashi",
+        "Shakuntala",
+        "The Birth of the War-god",
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "Malavika and Agnimitra; Urvashi",
+        "sentence": "He vainly asks help of the creatures whom he meets: a peacock, a cuckoo, a swan, a ruddy goose, a bee, an elephant, a mountain-echo, a river, and an antelope."
+      }
+    },
+    {
+      "name": "fig",
+      "kingdom": "flora",
+      "category": "tree",
+      "variants": [
+        "fig"
+      ],
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "the breathing acre grants New odours, and the forest figs hang sleek, With pleasant whistlings drunk by elephants Through long and hollow trunks, will gently seek To waft thee onward fragrantly to Holy Peak."
+      }
+    },
+    {
+      "name": "frog",
+      "kingdom": "fauna",
+      "category": "amphibian",
+      "variants": [
+        "frog"
+      ],
+      "sources": [
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "The Seasons",
+        "sentence": "The cobra does not hunt for food Nor heed the frog at all Who finds beneath the serpent's hood A sheltering parasol."
+      }
+    },
+    {
+      "name": "heron",
+      "kingdom": "fauna",
+      "category": "bird",
+      "variants": [
+        "heron",
+        "herons"
+      ],
+      "sources": [
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "The Seasons",
+        "sentence": "when heron-scream Is rare but sweet, when passion leaps And paints a livelier dream."
+      }
+    },
+    {
+      "name": "jackal",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "variants": [
+        "jackal",
+        "jackals"
+      ],
+      "sources": [
+        "Shakuntala",
+        "The Birth of the War-god",
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "But you, you son of a slave-wench, can go chasing from forest to forest, till you fall into the jaws of some old bear that is looking for a deer or a jackal."
+      }
+    },
+    {
+      "name": "jasmine",
+      "kingdom": "flora",
+      "category": "flower",
+      "variants": [
+        "jasmine",
+        "jasmine blossom",
+        "jasmine-blossoms",
+        "jasmine-vine",
+        "jasmines"
+      ],
+      "sources": [
+        "Shakuntala",
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "Where the autumn lotus in dear fingers shines, And lodh-flowers' April dust on faces rare, Spring amaranth with winter jasmine twines In women's braids, and summer siris fair, The rainy madder in the parting of their hair."
+      }
+    },
+    {
+      "name": "jujube",
+      "kingdom": "flora",
+      "category": "tree",
+      "variants": [
+        "jujube-trees",
+        "karkandhu-fruit"
+      ],
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "And again: On jujube-trees the blushing dewdrops falter;"
+      }
+    },
+    {
+      "name": "ketak (screw-pine)",
+      "kingdom": "flora",
+      "category": "flower",
+      "variants": [
+        "ketak",
+        "ketak-blossom"
+      ],
+      "sources": [
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "The Seasons",
+        "sentence": "Its ketak-blossom's opening sheath Is like a smile put on To"
+      }
+    },
+    {
+      "name": "lily",
+      "kingdom": "flora",
+      "category": "flower",
+      "variants": [
+        "lilies",
+        "lily",
+        "lily-pollen"
+      ],
+      "sources": [
+        "Shakuntala",
+        "The Dynasty of Raghu",
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "And again: Night-blooming lilies, when the moon is hidden, Have naught but memories of beauty left."
+      }
+    },
+    {
+      "name": "lion",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "variants": [
+        "lion",
+        "lion cub",
+        "lioness"
+      ],
+      "sources": [
+        "Shakuntala",
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "The Dynasty of Raghu",
+        "sentence": "On the twenty-second day the cow is attacked by a lion, and when the king hastens to draw an arrow, his arm is magically numbed, so that he stands helpless."
+      }
+    },
+    {
+      "name": "lodh",
+      "kingdom": "flora",
+      "category": "flower",
+      "variants": [
+        "lodh-flowers"
+      ],
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "Where the autumn lotus in dear fingers shines, And lodh-flowers' April dust on faces rare, Spring amaranth with winter jasmine twines In women's braids, and summer siris fair, The rainy madder in the parting of their hair."
+      }
+    },
+    {
+      "name": "lotus",
+      "kingdom": "flora",
+      "category": "flower",
+      "variants": [
+        "blue lotus-leaf",
+        "lotus",
+        "lotus-flower",
+        "lotus-flowers",
+        "lotus-leaf",
+        "lotus-leaves",
+        "lotus-petals",
+        "lotus-pollen"
+      ],
+      "sources": [
+        "Shakuntala",
+        "The Birth of the War-god",
+        "The Cloud-Messenger",
+        "The Dynasty of Raghu",
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "The sage who yokes her artless charm With pious pain and grief, Would try to cut the toughest vine With a soft, blue lotus-leaf."
+      }
+    },
+    {
+      "name": "madder",
+      "kingdom": "flora",
+      "category": "herb_or_grass",
+      "variants": [
+        "madder",
+        "madder-bush",
+        "madder-flowers"
+      ],
+      "sources": [
+        "The Cloud-Messenger",
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "XXI Spying the madder on the banks, half brown, Half green with shoots that struggle to the birth, Nibbling where early plantain-buds hang down, Scenting the sweet, sweet smell of forest earth, The deer will trace thy misty track that ends the dearth."
+      }
+    },
+    {
+      "name": "mango",
+      "kingdom": "flora",
+      "category": "tree",
+      "variants": [
+        "mango",
+        "mango branches",
+        "mango-blossom",
+        "mango-blossoms",
+        "mango-flower",
+        "mango-tree",
+        "mango-twig"
+      ],
+      "sources": [
+        "Shakuntala",
+        "The Birth of the War-god",
+        "The Cloud-Messenger",
+        "The Dynasty of Raghu",
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Enter a maid, gazing at a mango branch, and behind her, a second.) First maid."
+      }
+    },
+    {
+      "name": "mushroom",
+      "kingdom": "flora",
+      "category": "herb_or_grass",
+      "variants": [
+        "mushroom"
+      ],
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "And when they hear thy welcome thunders break, When mushrooms sprout to greet thy fertile weeks, The swans who long"
+      }
+    },
+    {
+      "name": "nightingale",
+      "kingdom": "fauna",
+      "category": "bird",
+      "variants": [
+        "nightingales"
+      ],
+      "sources": [
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "The Dynasty of Raghu",
+        "sentence": "Your low, sweet voice to nightingales was given;"
+      }
+    },
+    {
+      "name": "nipa",
+      "kingdom": "flora",
+      "category": "tree",
+      "variants": [
+        "nipa",
+        "nipa plants"
+      ],
+      "sources": [
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "The Seasons",
+        "sentence": "The forest seems to show its glee In flowering nipa plants;"
+      }
+    },
+    {
+      "name": "panic grass",
+      "kingdom": "flora",
+      "category": "herb_or_grass",
+      "variants": [
+        "panic grass"
+      ],
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Now you wrap it in a lotus-leaf, and I will get yellow pigment and earth from a sacred spot and blades of panic grass for the happy ceremony."
+      }
+    },
+    {
+      "name": "parrot",
+      "kingdom": "fauna",
+      "category": "bird",
+      "variants": [
+        "parrot"
+      ],
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Why, here Are rice-grains, dropped from bills of parrot chicks Beneath the trees;"
+      }
+    },
+    {
+      "name": "peacock",
+      "kingdom": "fauna",
+      "category": "bird",
+      "variants": [
+        "peacock"
+      ],
+      "sources": [
+        "Malavika and Agnimitra; Urvashi",
+        "Shakuntala",
+        "The Cloud-Messenger",
+        "The Dynasty of Raghu",
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "The peacock wakes and leaves the cottage thatch;"
+      }
+    },
+    {
+      "name": "plantain",
+      "kingdom": "flora",
+      "category": "crop_or_fruit",
+      "variants": [
+        "plantain-buds"
+      ],
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "XXI Spying the madder on the banks, half brown, Half green with shoots that struggle to the birth, Nibbling where early plantain-buds hang down, Scenting the sweet, sweet smell of forest earth, The deer will trace thy misty track that ends the dearth."
+      }
+    },
+    {
+      "name": "plover",
+      "kingdom": "fauna",
+      "category": "bird",
+      "variants": [
+        "plover"
+      ],
+      "sources": [
+        "Shakuntala",
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Plovers that fly from mountain-caves, Steeds that quick-flashing lightning laves, And chariot-wheels that drip with spray-- A path o'er pregnant clouds betray."
+      }
+    },
+    {
+      "name": "reed",
+      "kingdom": "flora",
+      "category": "herb_or_grass",
+      "variants": [
+        "reed"
+      ],
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "its capital Vidisha, on the banks of Reed River."
+      }
+    },
+    {
+      "name": "rice",
+      "kingdom": "flora",
+      "category": "crop_or_fruit",
+      "variants": [
+        "rice-stems"
+      ],
+      "sources": [
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "The Seasons",
+        "sentence": "AUTUMN The autumn comes, a maiden fair In slenderness and grace, With nodding rice-stems in her hair And lilies in her face."
+      }
+    },
+    {
+      "name": "rose-apple",
+      "kingdom": "flora",
+      "category": "crop_or_fruit",
+      "variants": [
+        "rose-apples"
+      ],
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "XXIII The Dasharna country, At thine approach, Dasharna land is blest With hedgerows where gay buds are all aglow, With village trees alive with many a nest Abuilding by the old familiar crow, With lingering swans, with ripe rose-apples' darker show."
+      }
+    },
+    {
+      "name": "ruddy goose (chakravaka)",
+      "kingdom": "fauna",
+      "category": "bird",
+      "variants": [
+        "ruddy goose"
+      ],
+      "sources": [
+        "Malavika and Agnimitra; Urvashi"
+      ],
+      "evidence": {
+        "source": "Malavika and Agnimitra; Urvashi",
+        "sentence": "He vainly asks help of the creatures whom he meets: a peacock, a cuckoo, a swan, a ruddy goose, a bee, an elephant, a mountain-echo, a river, and an antelope."
+      }
+    },
+    {
+      "name": "sacred grass (kusha)",
+      "kingdom": "flora",
+      "category": "herb_or_grass",
+      "variants": [
+        "sacred grass"
+      ],
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "(Exeunt ambo.) ACT III THE LOVE-MAKING (Enter a pupil, with sacred grass for the sacrifice.) Pupil (with meditative astonishment)."
+      }
+    },
+    {
+      "name": "siris",
+      "kingdom": "flora",
+      "category": "flower",
+      "variants": [
+        "siris",
+        "siris-blossom",
+        "siris-blossoms",
+        "siris-flowers"
+      ],
+      "sources": [
+        "Shakuntala",
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "Where the autumn lotus in dear fingers shines, And lodh-flowers' April dust on faces rare, Spring amaranth with winter jasmine twines In women's braids, and summer siris fair, The rainy madder in the parting of their hair."
+      }
+    },
+    {
+      "name": "snake",
+      "kingdom": "fauna",
+      "category": "reptile",
+      "variants": [
+        "serpent",
+        "snake",
+        "snakes"
+      ],
+      "sources": [
+        "Shakuntala",
+        "The Birth of the War-god",
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Sun-staring with dim eyes that know no rest, The dead skin of a serpent on his breast: So long he stood unmoved, insensate there That birds build nests within his mat of hair."
+      }
+    },
+    {
+      "name": "spider",
+      "kingdom": "fauna",
+      "category": "insect",
+      "variants": [
+        "spiders"
+      ],
+      "sources": [
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "The Dynasty of Raghu",
+        "sentence": "The windows are not lit by lamps at night, Nor by fair faces shining in the day, But webs of spiders dim the delicate, light Smoke-tracery with one mere daub of grey."
+      }
+    },
+    {
+      "name": "spring creeper",
+      "kingdom": "flora",
+      "category": "creeper",
+      "variants": [
+        "spring-creeper",
+        "spring-creepers"
+      ],
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "Here is the spring-creeper that Father Kanva tended with his own hands--just as he did you."
+      }
+    },
+    {
+      "name": "starling",
+      "kingdom": "fauna",
+      "category": "bird",
+      "variants": [
+        "starling"
+      ],
+      "sources": [
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "The Cloud-Messenger",
+        "sentence": "Or asks the caged, sweetly-singing starling: \"Do you remember, dear, our lord?"
+      }
+    },
+    {
+      "name": "swan",
+      "kingdom": "fauna",
+      "category": "bird",
+      "variants": [
+        "swan",
+        "swans"
+      ],
+      "sources": [
+        "Malavika and Agnimitra; Urvashi",
+        "Shakuntala",
+        "The Cloud-Messenger",
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "The stream of Malini, and on its sands The swan-pairs resting;"
+      }
+    },
+    {
+      "name": "tiger",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "variants": [
+        "tiger"
+      ],
+      "sources": [
+        "The Dynasty of Raghu"
+      ],
+      "evidence": {
+        "source": "The Dynasty of Raghu",
+        "sentence": "On stairways where the women once were glad To leave their pink and graceful footprints, here Unwelcome, blood-stained paws of tigers pad, Fresh-smeared from slaughter of the forest deer."
+      }
+    },
+    {
+      "name": "trumpet-flower",
+      "kingdom": "flora",
+      "category": "flower",
+      "variants": [
+        "trumpet-flower"
+      ],
+      "sources": [
+        "The Seasons"
+      ],
+      "evidence": {
+        "source": "The Seasons",
+        "sentence": "Dear maiden of the graceful song, To you may summer's power Bring moonbeams clear and garlands long And breath of trumpet-flower, Bring lakes that countless lilies dot, Refreshing water-sprays, Sweet friends at evening, and a spot Cool after burning days."
+      }
+    },
+    {
+      "name": "water-lily",
+      "kingdom": "flora",
+      "category": "flower",
+      "variants": [
+        "pink water-lily"
+      ],
+      "sources": [
+        "Shakuntala"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "But why does she cover her face with fingers lovely as the pink water-lily?"
+      }
+    },
+    {
+      "name": "yak",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "variants": [
+        "yak",
+        "yaks"
+      ],
+      "sources": [
+        "Shakuntala",
+        "The Cloud-Messenger"
+      ],
+      "evidence": {
+        "source": "Shakuntala",
+        "sentence": "holy foot-hill lands Of great Himalaya's sacred ranges, where The yaks are seen;"
+      }
+    }
+  ],
+  "decisions": [
+    {
+      "candidate": "almond",
+      "decision": [
+        "almond",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "amaranth",
+      "decision": [
+        "amaranth",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "amaranth-bud",
+      "decision": [
+        "amaranth",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "anklets",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "antelope",
+      "decision": [
+        "antelope",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "ape",
+      "decision": [
+        "ape",
+        "fauna",
+        "mammal"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "arrow",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "ashoka tree",
+      "decision": [
+        "ashoka",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "ashoka-tree",
+      "decision": [
+        "ashoka",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "bakul-tree",
+      "decision": [
+        "bakul",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "bamboo",
+      "decision": [
+        "bamboo",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "bark",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "bark dress",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "barken dress",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "bear",
+      "decision": [
+        "bear",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "bee",
+      "decision": [
+        "bee",
+        "fauna",
+        "insect"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "bees",
+      "decision": [
+        "bee",
+        "fauna",
+        "insect"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "bison",
+      "decision": [
+        "bison",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "blossom-burdened trees",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "blossoms",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "blue lotus-leaf",
+      "decision": [
+        "lotus",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "boar",
+      "decision": [
+        "boar",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "budding blossoms",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "budding charms",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "buffalo",
+      "decision": [
+        "buffalo",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "carp",
+      "decision": [
+        "carp",
+        "fauna",
+        "fish_or_aquatic"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "chariot",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "cloud",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "coals",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "cobra",
+      "decision": [
+        "cobra",
+        "fauna",
+        "reptile"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "cocoa-nut casket",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "columns",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "conch",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "coral-tree",
+      "decision": [
+        "coral tree",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "coral-trees",
+      "decision": [
+        "coral tree",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "cow",
+      "decision": [
+        "cow",
+        "fauna",
+        "mammal"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "crane",
+      "decision": [
+        "crane",
+        "flora",
+        "bird"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "cranes",
+      "decision": [
+        "crane",
+        "flora",
+        "bird"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "cuckoo",
+      "decision": [
+        "cuckoo",
+        "flora",
+        "bird"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "cuscus-salve",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "deer",
+      "decision": [
+        "deer",
+        "flora",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "deodars",
+      "decision": [
+        "deodar",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "elephant",
+      "decision": [
+        "elephant",
+        "flora",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "elephants",
+      "decision": [
+        "elephant",
+        "flora",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "emerald",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "fairies",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "fawn",
+      "decision": [
+        "deer",
+        "fauna",
+        "mammal"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "fawns",
+      "decision": [
+        "deer",
+        "fauna",
+        "mammal"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "fevered limbs",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "fig",
+      "decision": [
+        "fig",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "fires",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "flowers of grasses",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "frog",
+      "decision": [
+        "frog",
+        "fauna",
+        "amphibian"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "ganges",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "ganges river",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "girdle",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "goddess",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "hermit-girl",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "hermitage",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "heron",
+      "decision": [
+        "heron",
+        "fauna",
+        "bird"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "herons",
+      "decision": [
+        "heron",
+        "fauna",
+        "bird"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "hill",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "himalaya mountains",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "holiest hermits",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "jackal",
+      "decision": [
+        "jackal",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "jackals",
+      "decision": [
+        "jackal",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "jasmine",
+      "decision": [
+        "jasmine",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "jasmine blossom",
+      "decision": [
+        "jasmine",
+        "flora",
+        "flower"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "jasmine-blossoms",
+      "decision": [
+        "jasmine",
+        "flora",
+        "flower"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "jasmine-vine",
+      "decision": [
+        "jasmine",
+        "flora",
+        "creeper"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "jasmines",
+      "decision": [
+        "jasmine",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "jujube-trees",
+      "decision": [
+        "jujube",
+        "flora",
+        "tree"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "jumna river",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "karkandhu-fruit",
+      "decision": [
+        "jujube",
+        "flora",
+        "crop_or_fruit"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "ketak",
+      "decision": [
+        "ketak (screw-pine)",
+        "flora",
+        "flower"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "ketak-blossom",
+      "decision": [
+        "ketak (screw-pine)",
+        "flora",
+        "flower"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "lilies",
+      "decision": [
+        "lily",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "lily",
+      "decision": [
+        "lily",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "lily-dotted lakes",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "lily-pollen",
+      "decision": [
+        "lily",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "lily-pond",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "lion",
+      "decision": [
+        "lion",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "lion cub",
+      "decision": [
+        "lion",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "lioness",
+      "decision": [
+        "lion",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "lodh-flowers",
+      "decision": [
+        "lodh",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "lotus",
+      "decision": [
+        "lotus",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "lotus-bracelet",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "lotus-flower",
+      "decision": [
+        "lotus",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "lotus-flowers",
+      "decision": [
+        "lotus",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "lotus-leaf",
+      "decision": [
+        "lotus",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "lotus-leaves",
+      "decision": [
+        "lotus",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "lotus-petals",
+      "decision": [
+        "lotus",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "lotus-pollen",
+      "decision": [
+        "lotus",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "lute",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "madder",
+      "decision": [
+        "madder",
+        "flora",
+        "herb_or_grass"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "madder-bush",
+      "decision": [
+        "madder",
+        "flora",
+        "herb_or_grass"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "madder-flowers",
+      "decision": [
+        "madder",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "malini",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "mango",
+      "decision": [
+        "mango",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "mango branches",
+      "decision": [
+        "mango",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "mango-blossom",
+      "decision": [
+        "mango",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "mango-blossoms",
+      "decision": [
+        "mango",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "mango-flower",
+      "decision": [
+        "mango",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "mango-tree",
+      "decision": [
+        "mango",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "mango-twig",
+      "decision": [
+        "mango",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "misfortunes",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "moon",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "mountain-echo",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "mushroom",
+      "decision": [
+        "mushroom",
+        "flora",
+        "herb_or_grass"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "nightingales",
+      "decision": [
+        "nightingale",
+        "fauna",
+        "bird"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "nipa",
+      "decision": [
+        "nipa",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "nipa plants",
+      "decision": [
+        "nipa",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "ocean",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "panic grass",
+      "decision": [
+        "panic grass",
+        "flora",
+        "herb_or_grass"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "parrot",
+      "decision": [
+        "parrot",
+        "fauna",
+        "bird"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "peacock",
+      "decision": [
+        "peacock",
+        "fauna",
+        "bird"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "peacock-train",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "perfumed lotus-chain",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "picture",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "pink water-lily",
+      "decision": [
+        "water-lily",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "pious grove",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "plantain-buds",
+      "decision": [
+        "plantain",
+        "flora",
+        "crop_or_fruit"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "plover",
+      "decision": [
+        "plover",
+        "fauna",
+        "bird"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "quiver",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "range",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "reed",
+      "decision": [
+        "reed",
+        "flora",
+        "herb_or_grass"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "reva river",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "ribbon",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "rice-stems",
+      "decision": [
+        "rice",
+        "flora",
+        "crop_or_fruit"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "river",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "roots",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "rose-apples",
+      "decision": [
+        "rose-apple",
+        "flora",
+        "crop_or_fruit"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "ruby",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "ruddy goose",
+      "decision": [
+        "ruddy goose (chakravaka)",
+        "fauna",
+        "bird"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "sacred grass",
+      "decision": [
+        "sacred grass (kusha)",
+        "flora",
+        "herb_or_grass"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "sarasvati",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "serpent",
+      "decision": [
+        "snake",
+        "fauna",
+        "reptile"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "serpent-ring",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "shade-trees",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "shakuntala",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "siris",
+      "decision": [
+        "siris",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "siris-blossom",
+      "decision": [
+        "siris",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "siris-blossoms",
+      "decision": [
+        "siris",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "siris-flowers",
+      "decision": [
+        "siris",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "snake",
+      "decision": [
+        "snake",
+        "fauna",
+        "reptile"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "snakes",
+      "decision": [
+        "snake",
+        "fauna",
+        "reptile"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "somatirtha",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "spiders",
+      "decision": [
+        "spider",
+        "fauna",
+        "insect"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "spring-creeper",
+      "decision": [
+        "spring creeper",
+        "flora",
+        "creeper"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "spring-creepers",
+      "decision": [
+        "spring creeper",
+        "flora",
+        "creeper"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "starling",
+      "decision": [
+        "starling",
+        "fauna",
+        "bird"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "stream",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "stumbling feet",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "swan",
+      "decision": [
+        "swan",
+        "fauna",
+        "bird"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "swans",
+      "decision": [
+        "swan",
+        "fauna",
+        "bird"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "thunderbolt",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "tiger",
+      "decision": [
+        "tiger",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "toughest vine",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "tree of wishing",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "trumpet-flower",
+      "decision": [
+        "trumpet-flower",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "vine-bride",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "vines",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "wishing-tree",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "yak",
+      "decision": [
+        "yak",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "yaks",
+      "decision": [
+        "yak",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    }
+  ]
+}
