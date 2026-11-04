@@ -3,34 +3,20 @@
   "embedding_model": "nomic-embed-text",
   "records": [
     {
-      "name": "almond",
-      "kingdom": "flora",
-      "category": "tree",
-      "variants": [
-        "almond"
-      ],
-      "sources": [
-        "Shakuntala"
-      ],
-      "evidence": {
-        "source": "Shakuntala",
-        "sentence": "and pounding-stones where sticks A little almond-oil;"
-      }
-    },
-    {
       "name": "amaranth",
       "kingdom": "flora",
-      "category": "flower",
+      "category": "herb_or_grass",
       "variants": [
-        "amaranth",
-        "amaranth-bud"
+        "amaranth"
+      ],
+      "books": [
+        "Kalidasa"
       ],
       "sources": [
-        "Shakuntala",
-        "The Cloud-Messenger"
+        "Kalidasa, The Cloud-Messenger"
       ],
       "evidence": {
-        "source": "The Cloud-Messenger",
+        "source": "Kalidasa, The Cloud-Messenger",
         "sentence": "Where the autumn lotus in dear fingers shines, And lodh-flowers' April dust on faces rare, Spring amaranth with winter jasmine twines In women's braids, and summer siris fair, The rainy madder in the parting of their hair."
       }
     },
@@ -39,14 +25,18 @@
       "kingdom": "fauna",
       "category": "mammal",
       "variants": [
-        "antelope"
+        "antelope",
+        "kurunga"
+      ],
+      "books": [
+        "Jataka Tales"
       ],
       "sources": [
-        "Malavika and Agnimitra; Urvashi"
+        "Jataka Tales"
       ],
       "evidence": {
-        "source": "Malavika and Agnimitra; Urvashi",
-        "sentence": "He vainly asks help of the creatures whom he meets: a peacock, a cuckoo, a swan, a ruddy goose, a bee, an elephant, a mountain-echo, a river, and an antelope."
+        "source": "Jataka Tales",
+        "sentence": "Now a swift antelope who had come to the garden took to flight as soon as it saw Sanjaya."
       }
     },
     {
@@ -56,11 +46,14 @@
       "variants": [
         "ape"
       ],
+      "books": [
+        "Kalidasa"
+      ],
       "sources": [
-        "The Dynasty of Raghu"
+        "Kalidasa, The Dynasty of Raghu"
       ],
       "evidence": {
-        "source": "The Dynasty of Raghu",
+        "source": "Kalidasa, The Dynasty of Raghu",
         "sentence": "The vines that blossomed in my garden bowers, That used to show their graceful beauty, when Girls gently bent their twigs and plucked their flowers, Are broken by wild apes and wilder men."
       }
     },
@@ -69,18 +62,43 @@
       "kingdom": "flora",
       "category": "tree",
       "variants": [
-        "ashoka tree",
-        "ashoka-tree"
+        "ashoka",
+        "ashoka-tree",
+        "asoka",
+        "asoka-tree"
+      ],
+      "books": [
+        "Kalidasa",
+        "Rabindranath Tagore, The Gardener",
+        "Sarojini Naidu, The Golden Threshold"
       ],
       "sources": [
-        "Malavika and Agnimitra; Urvashi",
-        "Shakuntala",
-        "The Cloud-Messenger",
-        "The Dynasty of Raghu"
+        "Kalidasa, The Cloud-Messenger",
+        "Kalidasa, The Dynasty of Raghu",
+        "Rabindranath Tagore, The Gardener",
+        "Sarojini Naidu, The Golden Threshold"
       ],
       "evidence": {
-        "source": "Shakuntala",
-        "sentence": "(He turns to the king.) Wait here, O King, in the shade of the ashoka tree, till I have announced your coming to the sire of Indra."
+        "source": "Rabindranath Tagore, The Gardener",
+        "sentence": "to tinge the soles of your feet with the red juice of ashoka petals and kiss away the speck of dust that may chance to linger there."
+      }
+    },
+    {
+      "name": "babul (acacia)",
+      "kingdom": "flora",
+      "category": "tree",
+      "variants": [
+        "babla tree"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "evidence": {
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "Bring a bough of the babla tree, and show her how pleasant it is to be pierced by thorns.\" Surja Mukhi said gently: \"We do not like songs of that sort;"
       }
     },
     {
@@ -88,14 +106,21 @@
       "kingdom": "flora",
       "category": "tree",
       "variants": [
+        "bakul",
+        "bakul tree",
         "bakul-tree"
       ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Kalidasa"
+      ],
       "sources": [
-        "The Cloud-Messenger"
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Kalidasa, The Cloud-Messenger"
       ],
       "evidence": {
-        "source": "The Cloud-Messenger",
-        "sentence": "The ashoka-tree, with sweetly dancing lines, The favourite bakul-tree, are near the bower Of amaranth-engirdled jasmine-vines;"
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "Going thither, Kunda found the door open, and, stepping boldly in, hid herself within the boughs of a bakul tree growing in the midst."
       }
     },
     {
@@ -105,12 +130,75 @@
       "variants": [
         "bamboo"
       ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Kalidasa",
+        "Rabindranath Tagore, The Gardener"
+      ],
       "sources": [
-        "The Cloud-Messenger"
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Kalidasa, The Cloud-Messenger",
+        "Rabindranath Tagore, The Gardener"
       ],
       "evidence": {
-        "source": "The Cloud-Messenger",
+        "source": "Kalidasa, The Cloud-Messenger",
         "sentence": "A golden pole is set between the pair, With crystal perch above its emerald bands As green as young bamboo;"
+      }
+    },
+    {
+      "name": "banyan",
+      "kingdom": "flora",
+      "category": "tree",
+      "variants": [
+        "banyan",
+        "banyan-tree",
+        "lofty banyan-tree"
+      ],
+      "books": [
+        "Jataka Tales"
+      ],
+      "sources": [
+        "Jataka Tales"
+      ],
+      "evidence": {
+        "source": "Jataka Tales",
+        "sentence": "The Banyan Deer."
+      }
+    },
+    {
+      "name": "barley",
+      "kingdom": "flora",
+      "category": "crop_or_fruit",
+      "variants": [
+        "barley"
+      ],
+      "books": [
+        "Rabindranath Tagore, The Gardener"
+      ],
+      "sources": [
+        "Rabindranath Tagore, The Gardener"
+      ],
+      "evidence": {
+        "source": "Rabindranath Tagore, The Gardener",
+        "sentence": "If they stray into our barley field, I take them up in my arms."
+      }
+    },
+    {
+      "name": "bat",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "variants": [
+        "bats"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "evidence": {
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "bats flew about night and day."
       }
     },
     {
@@ -120,11 +208,14 @@
       "variants": [
         "bear"
       ],
+      "books": [
+        "Kalidasa"
+      ],
       "sources": [
-        "Shakuntala"
+        "Kalidasa, Shakuntala"
       ],
       "evidence": {
-        "source": "Shakuntala",
+        "source": "Kalidasa, Shakuntala",
         "sentence": "But you, you son of a slave-wench, can go chasing from forest to forest, till you fall into the jaws of some old bear that is looking for a deer or a jackal."
       }
     },
@@ -136,14 +227,56 @@
         "bee",
         "bees"
       ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Kalidasa",
+        "Rabindranath Tagore, The Gardener"
+      ],
       "sources": [
-        "Malavika and Agnimitra; Urvashi",
-        "Shakuntala",
-        "The Dynasty of Raghu"
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Kalidasa, Shakuntala",
+        "Kalidasa, The Dynasty of Raghu",
+        "Rabindranath Tagore, The Gardener"
       ],
       "evidence": {
-        "source": "Shakuntala",
+        "source": "Kalidasa, Shakuntala",
         "sentence": "(Jealously.) Eager bee, you lightly skim O'er the eyelid's trembling rim Toward the cheek aquiver."
+      }
+    },
+    {
+      "name": "bel (wood-apple)",
+      "kingdom": "flora",
+      "category": "crop_or_fruit",
+      "variants": [
+        "bel"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "evidence": {
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "On the other three sides of the talao, mango, jak, plum, orange, lichi, cocoanut, kul, bel, and other fruit-trees grew thickly in rows, looking in the darkness like a wall with an uneven top."
+      }
+    },
+    {
+      "name": "betel-nut",
+      "kingdom": "flora",
+      "category": "tree",
+      "variants": [
+        "betel-nut"
+      ],
+      "books": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "sources": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "evidence": {
+        "source": "Sarojini Naidu, The Golden Threshold",
+        "sentence": "The tilka's red for the brow of a bride, And betel-nut's red for lips that are sweet;"
       }
     },
     {
@@ -153,11 +286,14 @@
       "variants": [
         "bison"
       ],
+      "books": [
+        "Kalidasa"
+      ],
       "sources": [
-        "The Dynasty of Raghu"
+        "Kalidasa, The Dynasty of Raghu"
       ],
       "evidence": {
-        "source": "The Dynasty of Raghu",
+        "source": "Kalidasa, The Dynasty of Raghu",
         "sentence": "The water of the pools that used to splash With drumlike music, under maidens' hands, Groans now when bisons from the jungle lash It with their clumsy horns, and roil its sands."
       }
     },
@@ -168,12 +304,33 @@
       "variants": [
         "boar"
       ],
+      "books": [
+        "Kalidasa"
+      ],
       "sources": [
-        "Shakuntala"
+        "Kalidasa, Shakuntala"
       ],
       "evidence": {
-        "source": "Shakuntala",
-        "sentence": "\"There's a deer!\" he shouts, \"There's a boar!\" And off he chases on a summer noon through woods where shade is few and far between."
+        "source": "Kalidasa, Shakuntala",
+        "sentence": "Shade-seeking deer may chew the cud, Boars trample swamp-grass in the mud;"
+      }
+    },
+    {
+      "name": "brinjal",
+      "kingdom": "flora",
+      "category": "crop_or_fruit",
+      "variants": [
+        "brinjals"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "evidence": {
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "Here Bami, Kaymi, Gopal's mother, Nipal's mother, are shredding with a big knife vegetable pumpkins, brinjals, the sound of the cutting steel mingling with abuse of the neighbours, of the masters, of everybody: that Golapi has become a widow very young;"
       }
     },
     {
@@ -183,12 +340,54 @@
       "variants": [
         "buffalo"
       ],
+      "books": [
+        "Kalidasa",
+        "Rabindranath Tagore, The Gardener"
+      ],
       "sources": [
-        "Shakuntala"
+        "Kalidasa, Shakuntala",
+        "Rabindranath Tagore, The Gardener"
       ],
       "evidence": {
-        "source": "Shakuntala",
+        "source": "Kalidasa, Shakuntala",
         "sentence": "So for to-day The hornèd buffalo may shake The turbid water of the lake;"
+      }
+    },
+    {
+      "name": "bull",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "variants": [
+        "bull",
+        "bulls"
+      ],
+      "books": [
+        "Jataka Tales"
+      ],
+      "sources": [
+        "Jataka Tales"
+      ],
+      "evidence": {
+        "source": "Jataka Tales",
+        "sentence": "The Bull who Won the Bet."
+      }
+    },
+    {
+      "name": "butterfly",
+      "kingdom": "fauna",
+      "category": "insect",
+      "variants": [
+        "butterfly"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "evidence": {
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "A butterfly is flying about."
       }
     },
     {
@@ -198,12 +397,88 @@
       "variants": [
         "carp"
       ],
+      "books": [
+        "Kalidasa"
+      ],
       "sources": [
-        "Shakuntala"
+        "Kalidasa, Shakuntala"
       ],
       "evidence": {
-        "source": "Shakuntala",
+        "source": "Kalidasa, Shakuntala",
         "sentence": "one day I was cutting up a carp."
+      }
+    },
+    {
+      "name": "casuarina",
+      "kingdom": "flora",
+      "category": "tree",
+      "variants": [
+        "casuarina-trees"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "evidence": {
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "She sat beneath some casuarina-trees near the window, every now and then watching the fireflies dancing in the trees."
+      }
+    },
+    {
+      "name": "cat",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "variants": [
+        "cat",
+        "cats"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "evidence": {
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "The cats do not flatter any one;"
+      }
+    },
+    {
+      "name": "centipede",
+      "kingdom": "fauna",
+      "category": "insect",
+      "variants": [
+        "centipedes"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "evidence": {
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "musk-rats and centipedes swarmed in the rooms;"
+      }
+    },
+    {
+      "name": "champa",
+      "kingdom": "flora",
+      "category": "flower",
+      "variants": [
+        "champa"
+      ],
+      "books": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "sources": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "evidence": {
+        "source": "Sarojini Naidu, The Golden Threshold",
+        "sentence": "Mother mine, to the wild forest I am going, Where upon the champa boughs the champa buds are blowing;"
       }
     },
     {
@@ -213,14 +488,57 @@
       "variants": [
         "cobra"
       ],
+      "books": [
+        "Kalidasa"
+      ],
       "sources": [
-        "Malavika and Agnimitra; Urvashi",
-        "The Dynasty of Raghu",
-        "The Seasons"
+        "Kalidasa, The Birth of the War-god",
+        "Kalidasa, The Dynasty of Raghu",
+        "Kalidasa, The Seasons"
       ],
       "evidence": {
-        "source": "Malavika and Agnimitra; Urvashi",
-        "sentence": "declaring that he has been bitten by a cobra."
+        "source": "Kalidasa, The Dynasty of Raghu",
+        "sentence": "I see my pillared caryatides Neglected, weathered, stained by passing time, Wearing in place of garments that should please, The skins of sloughing cobras, foul with slime."
+      }
+    },
+    {
+      "name": "cockroach",
+      "kingdom": "fauna",
+      "category": "insect",
+      "variants": [
+        "cockroaches"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "evidence": {
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "cockroaches, spiders, lizards, and mice, scampered about everywhere."
+      }
+    },
+    {
+      "name": "coconut",
+      "kingdom": "flora",
+      "category": "tree",
+      "variants": [
+        "cocoanut",
+        "cocoanut palms",
+        "cocoanut trees"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "evidence": {
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "On the other three sides of the talao, mango, jak, plum, orange, lichi, cocoanut, kul, bel, and other fruit-trees grew thickly in rows, looking in the darkness like a wall with an uneven top."
       }
     },
     {
@@ -231,13 +549,34 @@
         "coral-tree",
         "coral-trees"
       ],
+      "books": [
+        "Kalidasa"
+      ],
       "sources": [
-        "Shakuntala",
-        "The Cloud-Messenger"
+        "Kalidasa, Shakuntala",
+        "Kalidasa, The Cloud-Messenger"
       ],
       "evidence": {
-        "source": "The Cloud-Messenger",
+        "source": "Kalidasa, The Cloud-Messenger",
         "sentence": "And near it grows a little coral-tree, Bending 'neath many a blossom's clustered star, Loved by my bride as children of adoption are."
+      }
+    },
+    {
+      "name": "corn",
+      "kingdom": "flora",
+      "category": "crop_or_fruit",
+      "variants": [
+        "corn"
+      ],
+      "books": [
+        "Jataka Tales"
+      ],
+      "sources": [
+        "Jataka Tales"
+      ],
+      "evidence": {
+        "source": "Jataka Tales",
+        "sentence": "Now in the land of Magadha at crop time, when the corn is ripening in the fields, there is danger brewing for the deer in the adjoining forest."
       }
     },
     {
@@ -245,15 +584,23 @@
       "kingdom": "fauna",
       "category": "mammal",
       "variants": [
-        "cow"
+        "cow",
+        "cows",
+        "tawny heifers"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Kalidasa",
+        "Sarojini Naidu, The Golden Threshold"
       ],
       "sources": [
-        "Shakuntala",
-        "The Dynasty of Raghu"
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Kalidasa, The Dynasty of Raghu",
+        "Sarojini Naidu, The Golden Threshold"
       ],
       "evidence": {
-        "source": "Shakuntala",
-        "sentence": "It is beautiful, for it has just been swept, and near at hand is the cow that yields the milk of sacrifice."
+        "source": "Kalidasa, The Dynasty of Raghu",
+        "sentence": "Vasishtha tells the king that on a former occasion he had offended the divine cow Fragrant, and had been cursed by the cow to lack children until he had propitiated her own offspring."
       }
     },
     {
@@ -264,13 +611,36 @@
         "crane",
         "cranes"
       ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Kalidasa"
+      ],
       "sources": [
-        "The Cloud-Messenger",
-        "The Dynasty of Raghu"
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Kalidasa, The Cloud-Messenger",
+        "Kalidasa, The Dynasty of Raghu"
       ],
       "evidence": {
-        "source": "The Dynasty of Raghu",
+        "source": "Kalidasa, The Dynasty of Raghu",
         "sentence": "over country roads past fragrant lotus-ponds and screaming peacocks and trustful deer, under archways formed without supporting pillars by the cranes, through villages where they receive the blessings of the people."
+      }
+    },
+    {
+      "name": "crow",
+      "kingdom": "fauna",
+      "category": "bird",
+      "variants": [
+        "crows"
+      ],
+      "books": [
+        "Kalidasa"
+      ],
+      "sources": [
+        "Kalidasa, Shakuntala"
+      ],
+      "evidence": {
+        "source": "Kalidasa, Shakuntala",
+        "sentence": "(To the fisherman.) Now you will see your family, or else you will feed the crows and jackals."
       }
     },
     {
@@ -280,13 +650,53 @@
       "variants": [
         "cuckoo"
       ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Kalidasa"
+      ],
       "sources": [
-        "Malavika and Agnimitra; Urvashi",
-        "Shakuntala"
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Kalidasa, Shakuntala"
       ],
       "evidence": {
-        "source": "Shakuntala",
+        "source": "Kalidasa, Shakuntala",
         "sentence": "Father, The trees are answering your prayer In cooing cuckoo-song, Bidding Shakuntala farewell, Their sister for so long."
+      }
+    },
+    {
+      "name": "cucumber",
+      "kingdom": "flora",
+      "category": "crop_or_fruit",
+      "variants": [
+        "cucumber"
+      ],
+      "books": [
+        "Jataka Tales"
+      ],
+      "sources": [
+        "Jataka Tales"
+      ],
+      "evidence": {
+        "source": "Jataka Tales",
+        "sentence": "Sakka, as before, found out where she was, and filled a cart with golden cucumbers, and seated himself in the middle of the village in the form of an old woman, calling out, “Buy my cucumbers!"
+      }
+    },
+    {
+      "name": "dahuk (waterhen)",
+      "kingdom": "fauna",
+      "category": "bird",
+      "variants": [
+        "dahuk"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "evidence": {
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "the dahuk (coloured herons), merry creatures, dive in the water;"
       }
     },
     {
@@ -294,17 +704,28 @@
       "kingdom": "fauna",
       "category": "mammal",
       "variants": [
+        "banyan deer",
         "deer",
         "fawn",
-        "fawns"
+        "fawns",
+        "monkey deer",
+        "roe",
+        "stag"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Jataka Tales",
+        "Kalidasa"
       ],
       "sources": [
-        "Shakuntala",
-        "The Dynasty of Raghu"
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Jataka Tales",
+        "Kalidasa, Shakuntala",
+        "Kalidasa, The Dynasty of Raghu"
       ],
       "evidence": {
-        "source": "Shakuntala",
-        "sentence": "Your charming song had carried me away As the deer enticed the hero of our play."
+        "source": "Jataka Tales",
+        "sentence": "He lived in the forest with an attendant herd of five hundred deer, under the name of the King of the Banyan Deer;"
       }
     },
     {
@@ -312,14 +733,119 @@
       "kingdom": "flora",
       "category": "tree",
       "variants": [
-        "deodars"
+        "deodar",
+        "deodar trees"
+      ],
+      "books": [
+        "Rabindranath Tagore, The Gardener"
       ],
       "sources": [
-        "The Cloud-Messenger"
+        "Rabindranath Tagore, The Gardener"
       ],
       "evidence": {
-        "source": "The Cloud-Messenger",
-        "sentence": "LIII If, born from friction of the deodars, A scudding fire should prove the mountain's bane, Singeing the tails of yaks with fiery stars, Quench thou the flame with"
+        "source": "Rabindranath Tagore, The Gardener",
+        "sentence": "And, alas, our spring is not here to allay your thirst.\" \"Here is the same sky,\" she said, \"only free from the fencing hills,--this is the same stream grown into a river,--the same earth widened into a plain.\" \"Everything is here,\" I sighed, \"only we are not.\" She smiled sadly and said, \"You are in my heart.\" I woke up and heard the babbling of the stream and the rustling of the deodars at night."
+      }
+    },
+    {
+      "name": "dhadikula",
+      "kingdom": "fauna",
+      "category": "bird",
+      "variants": [
+        "dhadikulas"
+      ],
+      "books": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "sources": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "evidence": {
+        "source": "Sarojini Naidu, The Golden Threshold",
+        "sentence": "Fair is my youth, and rich the echoing boughs Where dhadikulas sing."
+      }
+    },
+    {
+      "name": "dog",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "variants": [
+        "dog",
+        "dogs"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Jataka Tales",
+        "Kalidasa"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Jataka Tales",
+        "Kalidasa, The Birth of the War-god"
+      ],
+      "evidence": {
+        "source": "Kalidasa, The Birth of the War-god",
+        "sentence": "And dogs before them lifted muzzles foul To see the sun that lit that awful day, And pierced the ears of listeners with a howl Dreadful yet pitiful, then slunk away."
+      }
+    },
+    {
+      "name": "dove",
+      "kingdom": "fauna",
+      "category": "bird",
+      "variants": [
+        "dove",
+        "doves"
+      ],
+      "books": [
+        "Kalidasa",
+        "Rabindranath Tagore, The Gardener"
+      ],
+      "sources": [
+        "Kalidasa, The Cloud-Messenger",
+        "Rabindranath Tagore, The Gardener"
+      ],
+      "evidence": {
+        "source": "Rabindranath Tagore, The Gardener",
+        "sentence": "The doves cooed tireless in the shade, and a bee strayed in my room humming the news of many distant fields."
+      }
+    },
+    {
+      "name": "duck",
+      "kingdom": "fauna",
+      "category": "bird",
+      "variants": [
+        "duck",
+        "ducks"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Rabindranath Tagore, The Gardener"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Rabindranath Tagore, The Gardener"
+      ],
+      "evidence": {
+        "source": "Rabindranath Tagore, The Gardener",
+        "sentence": "The echoes of the voices calling for the ferry run across the dark water to the distant swamp where wild ducks sleep."
+      }
+    },
+    {
+      "name": "durva grass",
+      "kingdom": "flora",
+      "category": "herb_or_grass",
+      "variants": [
+        "dabba grass"
+      ],
+      "books": [
+        "Jataka Tales"
+      ],
+      "sources": [
+        "Jataka Tales"
+      ],
+      "evidence": {
+        "source": "Jataka Tales",
+        "sentence": "“Who are they then?” “It is the thoroughbreds living in your own house.” “But how can we know they are the guilty ones?” “I will prove it to you.” “Prove it then, O sage!” “Send for the thoroughbreds, and have a little buttermilk and Dabba grass brought in.” The king did so;"
       }
     },
     {
@@ -330,15 +856,18 @@
         "elephant",
         "elephants"
       ],
+      "books": [
+        "Jataka Tales",
+        "Kalidasa"
+      ],
       "sources": [
-        "Malavika and Agnimitra; Urvashi",
-        "Shakuntala",
-        "The Birth of the War-god",
-        "The Cloud-Messenger"
+        "Jataka Tales",
+        "Kalidasa, The Birth of the War-god",
+        "Kalidasa, The Cloud-Messenger"
       ],
       "evidence": {
-        "source": "Malavika and Agnimitra; Urvashi",
-        "sentence": "He vainly asks help of the creatures whom he meets: a peacock, a cuckoo, a swan, a ruddy goose, a bee, an elephant, a mountain-echo, a river, and an antelope."
+        "source": "Kalidasa, The Birth of the War-god",
+        "sentence": "He saw beside the bathing-pools the bowers Defiled by elephants grown overbold, Strewn with uprooted golden lotus-flowers, No longer bright with plumage of pure gold, Rough with great, jewelled columns overthrown, Rank with invasion of the untrimmed grass: Shame strove with sorrow at the ruin shown, For heaven's foe had brought these things to pass."
       }
     },
     {
@@ -346,14 +875,56 @@
       "kingdom": "flora",
       "category": "tree",
       "variants": [
-        "fig"
+        "fig",
+        "forest figs"
+      ],
+      "books": [
+        "Kalidasa"
       ],
       "sources": [
-        "The Cloud-Messenger"
+        "Kalidasa, The Cloud-Messenger"
       ],
       "evidence": {
-        "source": "The Cloud-Messenger",
+        "source": "Kalidasa, The Cloud-Messenger",
         "sentence": "the breathing acre grants New odours, and the forest figs hang sleek, With pleasant whistlings drunk by elephants Through long and hollow trunks, will gently seek To waft thee onward fragrantly to Holy Peak."
+      }
+    },
+    {
+      "name": "firefly",
+      "kingdom": "fauna",
+      "category": "insect",
+      "variants": [
+        "fireflies"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "evidence": {
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "but the trees, being surrounded by myriads of fireflies, looked like artificial trees studded with diamonds."
+      }
+    },
+    {
+      "name": "fly",
+      "kingdom": "fauna",
+      "category": "insect",
+      "variants": [
+        "fly"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "evidence": {
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "What will become of them hereafter?\" Elsewhere, a lizard on the wall with upraised face is watching a fly."
       }
     },
     {
@@ -363,12 +934,181 @@
       "variants": [
         "frog"
       ],
+      "books": [
+        "Kalidasa"
+      ],
       "sources": [
-        "The Seasons"
+        "Kalidasa, The Seasons"
       ],
       "evidence": {
-        "source": "The Seasons",
+        "source": "Kalidasa, The Seasons",
         "sentence": "The cobra does not hunt for food Nor heed the frog at all Who finds beneath the serpent's hood A sheltering parasol."
+      }
+    },
+    {
+      "name": "gazelle",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "variants": [
+        "gazelles"
+      ],
+      "books": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "sources": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "evidence": {
+        "source": "Sarojini Naidu, The Golden Threshold",
+        "sentence": "LEILI The serpents are asleep among the poppies, The fireflies light the soundless panther's way To tangled paths where shy gazelles are straying, And parrot-plumes outshine the dying day."
+      }
+    },
+    {
+      "name": "goat",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "variants": [
+        "goat"
+      ],
+      "books": [
+        "Jataka Tales"
+      ],
+      "sources": [
+        "Jataka Tales"
+      ],
+      "evidence": {
+        "source": "Jataka Tales",
+        "sentence": "sheep and goats in large numbers in order to offer what is called “The Feast of the Dead” in honour of their deceased relatives."
+      }
+    },
+    {
+      "name": "goose",
+      "kingdom": "fauna",
+      "category": "bird",
+      "variants": [
+        "goose",
+        "king of the geese"
+      ],
+      "books": [
+        "Jataka Tales"
+      ],
+      "sources": [
+        "Jataka Tales"
+      ],
+      "evidence": {
+        "source": "Jataka Tales",
+        "sentence": "* * * * * Long ago, in the first age of the world, the quadrupeds chose the Lion as their king, the fishes the Leviathan, and the birds the Golden Goose."
+      }
+    },
+    {
+      "name": "gourd",
+      "kingdom": "flora",
+      "category": "crop_or_fruit",
+      "variants": [
+        "gourd-flower"
+      ],
+      "books": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "sources": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "evidence": {
+        "source": "Sarojini Naidu, The Golden Threshold",
+        "sentence": "Women's Voices Queen of the gourd-flower, queen of the harvest, Sweet and omnipotent mother, O Earth!"
+      }
+    },
+    {
+      "name": "gull",
+      "kingdom": "fauna",
+      "category": "bird",
+      "variants": [
+        "sea-gull"
+      ],
+      "books": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "sources": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "evidence": {
+        "source": "Sarojini Naidu, The Golden Threshold",
+        "sentence": "No longer delay, let us hasten away in the track of the sea-gull's call, The sea is our mother, the cloud is our brother, the waves are our comrades all."
+      }
+    },
+    {
+      "name": "halcyon",
+      "kingdom": "fauna",
+      "category": "bird",
+      "variants": [
+        "halcyon"
+      ],
+      "books": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "sources": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "evidence": {
+        "source": "Sarojini Naidu, The Golden Threshold",
+        "sentence": "Blue as the wing of a halcyon wild, We weave the robes of a new-born child."
+      }
+    },
+    {
+      "name": "hare",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "variants": [
+        "hare"
+      ],
+      "books": [
+        "Jataka Tales"
+      ],
+      "sources": [
+        "Jataka Tales"
+      ],
+      "evidence": {
+        "source": "Jataka Tales",
+        "sentence": "period which elapses between the commencement of the formation of the world and its final destruction) which endure throughout a Kalpa--the sign of the hare in the moon will last the whole Kalpa: the place where the fire was extinguished in the Quail-birth will not take fire again through all the Kalpa: the place where the potter lived will remain arid through all the Kalpa: the canes growing round this pond will be hollow through all the Kalpa."
+      }
+    },
+    {
+      "name": "hemp",
+      "kingdom": "flora",
+      "category": "herb_or_grass",
+      "variants": [
+        "hemp"
+      ],
+      "books": [
+        "Rabindranath Tagore, The Gardener"
+      ],
+      "sources": [
+        "Rabindranath Tagore, The Gardener"
+      ],
+      "evidence": {
+        "source": "Rabindranath Tagore, The Gardener",
+        "sentence": "When their linseed is ripe for harvest the hemp is in bloom in our field."
+      }
+    },
+    {
+      "name": "henna",
+      "kingdom": "flora",
+      "category": "herb_or_grass",
+      "variants": [
+        "henna",
+        "henna-tree"
+      ],
+      "books": [
+        "Rabindranath Tagore, The Gardener",
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "sources": [
+        "Rabindranath Tagore, The Gardener",
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "evidence": {
+        "source": "Sarojini Naidu, The Golden Threshold",
+        "sentence": "IN PRAISE OF HENNA A kokila called from a henna-spray: LIRA!"
       }
     },
     {
@@ -379,12 +1119,55 @@
         "heron",
         "herons"
       ],
+      "books": [
+        "Kalidasa"
+      ],
       "sources": [
-        "The Seasons"
+        "Kalidasa, The Seasons"
       ],
       "evidence": {
-        "source": "The Seasons",
+        "source": "Kalidasa, The Seasons",
         "sentence": "when heron-scream Is rare but sweet, when passion leaps And paints a livelier dream."
+      }
+    },
+    {
+      "name": "horse",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "variants": [
+        "horse",
+        "horses",
+        "thoroughbreds"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Jataka Tales"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Jataka Tales"
+      ],
+      "evidence": {
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "Subhadra herself is driving, the horses grinding the clouds with their hoofs."
+      }
+    },
+    {
+      "name": "hyacinth",
+      "kingdom": "flora",
+      "category": "flower",
+      "variants": [
+        "hyacinth"
+      ],
+      "books": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "sources": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "evidence": {
+        "source": "Sarojini Naidu, The Golden Threshold",
+        "sentence": "Or if perchance one perfumed tress Be lowered to the wind's caress, The honeyed hyacinths complain, And languish in a sweet distress."
       }
     },
     {
@@ -395,14 +1178,39 @@
         "jackal",
         "jackals"
       ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Kalidasa",
+        "Rabindranath Tagore, The Gardener"
+      ],
       "sources": [
-        "Shakuntala",
-        "The Birth of the War-god",
-        "The Dynasty of Raghu"
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Kalidasa, Shakuntala",
+        "Kalidasa, The Birth of the War-god",
+        "Kalidasa, The Dynasty of Raghu",
+        "Rabindranath Tagore, The Gardener"
       ],
       "evidence": {
-        "source": "Shakuntala",
+        "source": "Kalidasa, Shakuntala",
         "sentence": "But you, you son of a slave-wench, can go chasing from forest to forest, till you fall into the jaws of some old bear that is looking for a deer or a jackal."
+      }
+    },
+    {
+      "name": "jackfruit",
+      "kingdom": "flora",
+      "category": "crop_or_fruit",
+      "variants": [
+        "jak"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "evidence": {
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "On the other three sides of the talao, mango, jak, plum, orange, lichi, cocoanut, kul, bel, and other fruit-trees grew thickly in rows, looking in the darkness like a wall with an uneven top."
       }
     },
     {
@@ -416,29 +1224,57 @@
         "jasmine-vine",
         "jasmines"
       ],
+      "books": [
+        "Kalidasa",
+        "Rabindranath Tagore, The Gardener",
+        "Sarojini Naidu, The Golden Threshold"
+      ],
       "sources": [
-        "Shakuntala",
-        "The Cloud-Messenger"
+        "Kalidasa, Shakuntala",
+        "Kalidasa, The Cloud-Messenger",
+        "Rabindranath Tagore, The Gardener",
+        "Sarojini Naidu, The Golden Threshold"
       ],
       "evidence": {
-        "source": "The Cloud-Messenger",
+        "source": "Kalidasa, The Cloud-Messenger",
         "sentence": "Where the autumn lotus in dear fingers shines, And lodh-flowers' April dust on faces rare, Spring amaranth with winter jasmine twines In women's braids, and summer siris fair, The rainy madder in the parting of their hair."
       }
     },
     {
       "name": "jujube",
       "kingdom": "flora",
-      "category": "tree",
+      "category": "crop_or_fruit",
       "variants": [
-        "jujube-trees",
-        "karkandhu-fruit"
+        "kul"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
       ],
       "sources": [
-        "Shakuntala"
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
       ],
       "evidence": {
-        "source": "Shakuntala",
-        "sentence": "And again: On jujube-trees the blushing dewdrops falter;"
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "On the other three sides of the talao, mango, jak, plum, orange, lichi, cocoanut, kul, bel, and other fruit-trees grew thickly in rows, looking in the darkness like a wall with an uneven top."
+      }
+    },
+    {
+      "name": "kadam",
+      "kingdom": "flora",
+      "category": "tree",
+      "variants": [
+        "kadam",
+        "kadam forest"
+      ],
+      "books": [
+        "Rabindranath Tagore, The Gardener"
+      ],
+      "sources": [
+        "Rabindranath Tagore, The Gardener"
+      ],
+      "evidence": {
+        "source": "Rabindranath Tagore, The Gardener",
+        "sentence": "The rain that floods their tank makes glad our kadam forest."
       }
     },
     {
@@ -446,15 +1282,98 @@
       "kingdom": "flora",
       "category": "flower",
       "variants": [
+        "keovas",
         "ketak",
         "ketak-blossom"
       ],
+      "books": [
+        "Kalidasa",
+        "Sarojini Naidu, The Golden Threshold"
+      ],
       "sources": [
-        "The Seasons"
+        "Kalidasa, The Seasons",
+        "Sarojini Naidu, The Golden Threshold"
       ],
       "evidence": {
-        "source": "The Seasons",
-        "sentence": "Its ketak-blossom's opening sheath Is like a smile put on To"
+        "source": "Sarojini Naidu, The Golden Threshold",
+        "sentence": "In what moonlight-tangled meshes of perfume, Where the clustering keovas guard the squirrel's slumber, Where the deep woods glimmer with the jasmine's bloom?"
+      }
+    },
+    {
+      "name": "kite",
+      "kingdom": "fauna",
+      "category": "bird",
+      "variants": [
+        "kite",
+        "kites"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "evidence": {
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "the kites, frightened at her gigantic size and her quick-handedness, keeping away, yet now and again darting forward to peck at the fish."
+      }
+    },
+    {
+      "name": "koel",
+      "kingdom": "fauna",
+      "category": "bird",
+      "variants": [
+        "koel",
+        "koil",
+        "kokila"
+      ],
+      "books": [
+        "Rabindranath Tagore, The Gardener",
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "sources": [
+        "Rabindranath Tagore, The Gardener",
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "evidence": {
+        "source": "Rabindranath Tagore, The Gardener",
+        "sentence": "The koels were weary of their songs."
+      }
+    },
+    {
+      "name": "kusum",
+      "kingdom": "flora",
+      "category": "flower",
+      "variants": [
+        "kusm flowers"
+      ],
+      "books": [
+        "Rabindranath Tagore, The Gardener"
+      ],
+      "sources": [
+        "Rabindranath Tagore, The Gardener"
+      ],
+      "evidence": {
+        "source": "Rabindranath Tagore, The Gardener",
+        "sentence": "Baskets of dried kusm flowers come from their fields to our market."
+      }
+    },
+    {
+      "name": "lichi",
+      "kingdom": "flora",
+      "category": "tree",
+      "variants": [
+        "lichi"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "evidence": {
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "On the other three sides of the talao, mango, jak, plum, orange, lichi, cocoanut, kul, bel, and other fruit-trees grew thickly in rows, looking in the darkness like a wall with an uneven top."
       }
     },
     {
@@ -466,14 +1385,39 @@
         "lily",
         "lily-pollen"
       ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Kalidasa",
+        "Sarojini Naidu, The Golden Threshold"
+      ],
       "sources": [
-        "Shakuntala",
-        "The Dynasty of Raghu",
-        "The Seasons"
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Kalidasa, Shakuntala",
+        "Kalidasa, The Dynasty of Raghu",
+        "Kalidasa, The Seasons",
+        "Sarojini Naidu, The Golden Threshold"
       ],
       "evidence": {
-        "source": "Shakuntala",
-        "sentence": "And again: Night-blooming lilies, when the moon is hidden, Have naught but memories of beauty left."
+        "source": "Kalidasa, The Seasons",
+        "sentence": "AUTUMN The autumn comes, a maiden fair In slenderness and grace, With nodding rice-stems in her hair And lilies in her face."
+      }
+    },
+    {
+      "name": "linseed",
+      "kingdom": "flora",
+      "category": "crop_or_fruit",
+      "variants": [
+        "linseed"
+      ],
+      "books": [
+        "Rabindranath Tagore, The Gardener"
+      ],
+      "sources": [
+        "Rabindranath Tagore, The Gardener"
+      ],
+      "evidence": {
+        "source": "Rabindranath Tagore, The Gardener",
+        "sentence": "When their linseed is ripe for harvest the hemp is in bloom in our field."
       }
     },
     {
@@ -482,16 +1426,39 @@
       "category": "mammal",
       "variants": [
         "lion",
-        "lion cub",
-        "lioness"
+        "lion cub"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Kalidasa"
       ],
       "sources": [
-        "Shakuntala",
-        "The Dynasty of Raghu"
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Kalidasa, Shakuntala",
+        "Kalidasa, The Dynasty of Raghu"
       ],
       "evidence": {
-        "source": "The Dynasty of Raghu",
+        "source": "Kalidasa, The Dynasty of Raghu",
         "sentence": "On the twenty-second day the cow is attacked by a lion, and when the king hastens to draw an arrow, his arm is magically numbed, so that he stands helpless."
+      }
+    },
+    {
+      "name": "lizard",
+      "kingdom": "fauna",
+      "category": "reptile",
+      "variants": [
+        "lizard",
+        "lizards"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "evidence": {
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "What will become of them hereafter?\" Elsewhere, a lizard on the wall with upraised face is watching a fly."
       }
     },
     {
@@ -501,11 +1468,14 @@
       "variants": [
         "lodh-flowers"
       ],
+      "books": [
+        "Kalidasa"
+      ],
       "sources": [
-        "The Cloud-Messenger"
+        "Kalidasa, The Cloud-Messenger"
       ],
       "evidence": {
-        "source": "The Cloud-Messenger",
+        "source": "Kalidasa, The Cloud-Messenger",
         "sentence": "Where the autumn lotus in dear fingers shines, And lodh-flowers' April dust on faces rare, Spring amaranth with winter jasmine twines In women's braids, and summer siris fair, The rainy madder in the parting of their hair."
       }
     },
@@ -515,7 +1485,10 @@
       "category": "flower",
       "variants": [
         "blue lotus-leaf",
+        "kamala flowers",
         "lotus",
+        "lotus stalk",
+        "lotus-buds",
         "lotus-flower",
         "lotus-flowers",
         "lotus-leaf",
@@ -523,15 +1496,26 @@
         "lotus-petals",
         "lotus-pollen"
       ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Jataka Tales",
+        "Kalidasa",
+        "Rabindranath Tagore, The Gardener",
+        "Sarojini Naidu, The Golden Threshold"
+      ],
       "sources": [
-        "Shakuntala",
-        "The Birth of the War-god",
-        "The Cloud-Messenger",
-        "The Dynasty of Raghu",
-        "The Seasons"
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Jataka Tales",
+        "Kalidasa, Shakuntala",
+        "Kalidasa, The Birth of the War-god",
+        "Kalidasa, The Cloud-Messenger",
+        "Kalidasa, The Dynasty of Raghu",
+        "Kalidasa, The Seasons",
+        "Rabindranath Tagore, The Gardener",
+        "Sarojini Naidu, The Golden Threshold"
       ],
       "evidence": {
-        "source": "Shakuntala",
+        "source": "Kalidasa, Shakuntala",
         "sentence": "The sage who yokes her artless charm With pious pain and grief, Would try to cut the toughest vine With a soft, blue lotus-leaf."
       }
     },
@@ -544,12 +1528,15 @@
         "madder-bush",
         "madder-flowers"
       ],
+      "books": [
+        "Kalidasa"
+      ],
       "sources": [
-        "The Cloud-Messenger",
-        "The Dynasty of Raghu"
+        "Kalidasa, The Cloud-Messenger",
+        "Kalidasa, The Dynasty of Raghu"
       ],
       "evidence": {
-        "source": "The Cloud-Messenger",
+        "source": "Kalidasa, The Cloud-Messenger",
         "sentence": "XXI Spying the madder on the banks, half brown, Half green with shoots that struggle to the birth, Nibbling where early plantain-buds hang down, Scenting the sweet, sweet smell of forest earth, The deer will trace thy misty track that ends the dearth."
       }
     },
@@ -559,23 +1546,72 @@
       "category": "tree",
       "variants": [
         "mango",
-        "mango branches",
+        "mango blossom",
+        "mango flowers",
         "mango-blossom",
         "mango-blossoms",
         "mango-flower",
         "mango-tree",
         "mango-twig"
       ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Jataka Tales",
+        "Kalidasa",
+        "Rabindranath Tagore, The Gardener",
+        "Sarojini Naidu, The Golden Threshold"
+      ],
       "sources": [
-        "Shakuntala",
-        "The Birth of the War-god",
-        "The Cloud-Messenger",
-        "The Dynasty of Raghu",
-        "The Seasons"
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Jataka Tales",
+        "Kalidasa, Shakuntala",
+        "Kalidasa, The Birth of the War-god",
+        "Kalidasa, The Cloud-Messenger",
+        "Kalidasa, The Dynasty of Raghu",
+        "Kalidasa, The Seasons",
+        "Rabindranath Tagore, The Gardener",
+        "Sarojini Naidu, The Golden Threshold"
       ],
       "evidence": {
-        "source": "Shakuntala",
+        "source": "Kalidasa, Shakuntala",
         "sentence": "Enter a maid, gazing at a mango branch, and behind her, a second.) First maid."
+      }
+    },
+    {
+      "name": "monkey",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "variants": [
+        "monkey",
+        "monkeys"
+      ],
+      "books": [
+        "Jataka Tales"
+      ],
+      "sources": [
+        "Jataka Tales"
+      ],
+      "evidence": {
+        "source": "Jataka Tales",
+        "sentence": "* * * * * Long ago there were three friends living near a great Banyan-tree, on the slope of the Himālaya range of mountains--a Partridge, a Monkey, and an Elephant."
+      }
+    },
+    {
+      "name": "mouse",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "variants": [
+        "mice"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "evidence": {
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "there was no trace of human occupation--only owls, mice, reptiles, and insects gathered there."
       }
     },
     {
@@ -585,12 +1621,87 @@
       "variants": [
         "mushroom"
       ],
+      "books": [
+        "Kalidasa"
+      ],
       "sources": [
-        "The Cloud-Messenger"
+        "Kalidasa, The Cloud-Messenger"
       ],
       "evidence": {
-        "source": "The Cloud-Messenger",
+        "source": "Kalidasa, The Cloud-Messenger",
         "sentence": "And when they hear thy welcome thunders break, When mushrooms sprout to greet thy fertile weeks, The swans who long"
+      }
+    },
+    {
+      "name": "musk deer",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "variants": [
+        "musk-deer"
+      ],
+      "books": [
+        "Rabindranath Tagore, The Gardener"
+      ],
+      "sources": [
+        "Rabindranath Tagore, The Gardener"
+      ],
+      "evidence": {
+        "source": "Rabindranath Tagore, The Gardener",
+        "sentence": "15 I run as a musk-deer runs in the shadow of the forest mad with his own perfume."
+      }
+    },
+    {
+      "name": "musk-rat",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "variants": [
+        "musk-rats"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "evidence": {
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "musk-rats and centipedes swarmed in the rooms;"
+      }
+    },
+    {
+      "name": "mustard",
+      "kingdom": "flora",
+      "category": "crop_or_fruit",
+      "variants": [
+        "mustard"
+      ],
+      "books": [
+        "Rabindranath Tagore, The Gardener"
+      ],
+      "sources": [
+        "Rabindranath Tagore, The Gardener"
+      ],
+      "evidence": {
+        "source": "Rabindranath Tagore, The Gardener",
+        "sentence": "The narrow winding road crosses many a mustard field, and many a mango forest."
+      }
+    },
+    {
+      "name": "neem",
+      "kingdom": "flora",
+      "category": "tree",
+      "variants": [
+        "neem"
+      ],
+      "books": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "sources": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "evidence": {
+        "source": "Sarojini Naidu, The Golden Threshold",
+        "sentence": "Sweet, shut your eyes, The wild fire-flies Dance through the fairy neem;"
       }
     },
     {
@@ -598,14 +1709,20 @@
       "kingdom": "fauna",
       "category": "bird",
       "variants": [
+        "nightingale",
         "nightingales"
       ],
+      "books": [
+        "Kalidasa",
+        "Sarojini Naidu, The Golden Threshold"
+      ],
       "sources": [
-        "The Dynasty of Raghu"
+        "Kalidasa, The Dynasty of Raghu",
+        "Sarojini Naidu, The Golden Threshold"
       ],
       "evidence": {
-        "source": "The Dynasty of Raghu",
-        "sentence": "Your low, sweet voice to nightingales was given;"
+        "source": "Sarojini Naidu, The Golden Threshold",
+        "sentence": "And, when I pause, still groves among, (Such loveliness is mine) a throng Of nightingales awake and strain Their souls into a quivering song."
       }
     },
     {
@@ -616,12 +1733,148 @@
         "nipa",
         "nipa plants"
       ],
+      "books": [
+        "Kalidasa"
+      ],
       "sources": [
-        "The Seasons"
+        "Kalidasa, The Seasons"
       ],
       "evidence": {
-        "source": "The Seasons",
+        "source": "Kalidasa, The Seasons",
         "sentence": "The forest seems to show its glee In flowering nipa plants;"
+      }
+    },
+    {
+      "name": "oleander",
+      "kingdom": "flora",
+      "category": "flower",
+      "variants": [
+        "oleander"
+      ],
+      "books": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "sources": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "evidence": {
+        "source": "Sarojini Naidu, The Golden Threshold",
+        "sentence": "Whither dost thou loiter, by what murmuring hollows, Where oleanders scatter their ambrosial fire?"
+      }
+    },
+    {
+      "name": "orange",
+      "kingdom": "flora",
+      "category": "tree",
+      "variants": [
+        "orange"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "evidence": {
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "On the other three sides of the talao, mango, jak, plum, orange, lichi, cocoanut, kul, bel, and other fruit-trees grew thickly in rows, looking in the darkness like a wall with an uneven top."
+      }
+    },
+    {
+      "name": "oriole",
+      "kingdom": "fauna",
+      "category": "bird",
+      "variants": [
+        "oriole"
+      ],
+      "books": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "sources": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "evidence": {
+        "source": "Sarojini Naidu, The Golden Threshold",
+        "sentence": "Seven new moon tides at the Vesper call, King Feroz led to Queen Gulnaar's hall A young queen eyed like the morning star: \"I bring thee a rival, O Queen Gulnaar.\" But still she gazed in her mirror and sighed: \"O King, my heart is unsatisfied.\" Seven queens shone round her ivory bed, Like seven soft gems on a silken thread, Like seven fair lamps in a royal tower, Like seven bright petals of Beauty's flower Queen Gulnaar sighed like a murmuring rose \"Where is my rival, O King Feroz?\" III When spring winds wakened the mountain floods, And kindled the flame of the tulip buds, When bees grew loud and the days grew long, And the peach groves thrilled to the oriole's song, Queen Gulnaar sat on her ivory bed, Decking with jewels her exquisite head;"
+      }
+    },
+    {
+      "name": "owl",
+      "kingdom": "fauna",
+      "category": "bird",
+      "variants": [
+        "black owl",
+        "owls"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "evidence": {
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "the black owl hoots!"
+      }
+    },
+    {
+      "name": "ox",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "variants": [
+        "oxen"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Jataka Tales"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Jataka Tales"
+      ],
+      "evidence": {
+        "source": "Jataka Tales",
+        "sentence": "grass will have been eaten by the oxen that have gone first, whilst my oxen will eat the freshly grown and tender shoots:--for the men there will be the sweet curry-stuffs that have grown where the old was picked:--where there is no water these others will dig and get supplies, whilst we shall drink from the wells that they have dug:--and haggling about prices too is killing work;"
+      }
+    },
+    {
+      "name": "paddy bird (pond heron)",
+      "kingdom": "fauna",
+      "category": "bird",
+      "variants": [
+        "paddy birds"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "evidence": {
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "The river became black, the tree-tops drooped, the paddy birds flew aloft, the water became motionless."
+      }
+    },
+    {
+      "name": "palm",
+      "kingdom": "flora",
+      "category": "tree",
+      "variants": [
+        "fan palm",
+        "palm",
+        "palm leaf"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Rabindranath Tagore, The Gardener"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Rabindranath Tagore, The Gardener"
+      ],
+      "evidence": {
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "In the distance the cocoanut palms waved their heads, the rustling of the leaves of the fan palm reached the ear."
       }
     },
     {
@@ -631,12 +1884,52 @@
       "variants": [
         "panic grass"
       ],
+      "books": [
+        "Kalidasa"
+      ],
       "sources": [
-        "Shakuntala"
+        "Kalidasa, Shakuntala"
       ],
       "evidence": {
-        "source": "Shakuntala",
+        "source": "Kalidasa, Shakuntala",
         "sentence": "Now you wrap it in a lotus-leaf, and I will get yellow pigment and earth from a sacred spot and blades of panic grass for the happy ceremony."
+      }
+    },
+    {
+      "name": "panther",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "variants": [
+        "black panther",
+        "panther"
+      ],
+      "books": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "sources": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "evidence": {
+        "source": "Sarojini Naidu, The Golden Threshold",
+        "sentence": "With frugal skill her simple wants she tends, She folds her tawny heifers and her sheep On lonely meadows when the daylight ends, Ere the quick night upon her flock descends Like a black panther from the caves of sleep."
+      }
+    },
+    {
+      "name": "papiya (hawk-cuckoo)",
+      "kingdom": "fauna",
+      "category": "bird",
+      "variants": [
+        "papiya"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "evidence": {
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "At length the cool wind blew, forerunner of the dawn, and the papiya (a bird) filled the air with its musical voice."
       }
     },
     {
@@ -646,12 +1939,51 @@
       "variants": [
         "parrot"
       ],
+      "books": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
       "sources": [
-        "Shakuntala"
+        "Sarojini Naidu, The Golden Threshold"
       ],
       "evidence": {
-        "source": "Shakuntala",
-        "sentence": "Why, here Are rice-grains, dropped from bills of parrot chicks Beneath the trees;"
+        "source": "Sarojini Naidu, The Golden Threshold",
+        "sentence": "And on ripe boughs of many-coloured fruits Bright parrots cluster like vermilion flowers."
+      }
+    },
+    {
+      "name": "partridge",
+      "kingdom": "fauna",
+      "category": "bird",
+      "variants": [
+        "partridge"
+      ],
+      "books": [
+        "Jataka Tales"
+      ],
+      "sources": [
+        "Jataka Tales"
+      ],
+      "evidence": {
+        "source": "Jataka Tales",
+        "sentence": "and after having been born in the egg, and having got out of the shell, he became a young quail, in size like a big partridge."
+      }
+    },
+    {
+      "name": "peach",
+      "kingdom": "flora",
+      "category": "tree",
+      "variants": [
+        "peach"
+      ],
+      "books": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "sources": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "evidence": {
+        "source": "Sarojini Naidu, The Golden Threshold",
+        "sentence": "Seven new moon tides at the Vesper call, King Feroz led to Queen Gulnaar's hall A young queen eyed like the morning star: \"I bring thee a rival, O Queen Gulnaar.\" But still she gazed in her mirror and sighed: \"O King, my heart is unsatisfied.\" Seven queens shone round her ivory bed, Like seven soft gems on a silken thread, Like seven fair lamps in a royal tower, Like seven bright petals of Beauty's flower Queen Gulnaar sighed like a murmuring rose \"Where is my rival, O King Feroz?\" III When spring winds wakened the mountain floods, And kindled the flame of the tulip buds, When bees grew loud and the days grew long, And the peach groves thrilled to the oriole's song, Queen Gulnaar sat on her ivory bed, Decking with jewels her exquisite head;"
       }
     },
     {
@@ -659,18 +1991,70 @@
       "kingdom": "fauna",
       "category": "bird",
       "variants": [
-        "peacock"
+        "peacock",
+        "peacocks"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Jataka Tales",
+        "Kalidasa",
+        "Rabindranath Tagore, The Gardener",
+        "Sarojini Naidu, The Golden Threshold"
       ],
       "sources": [
-        "Malavika and Agnimitra; Urvashi",
-        "Shakuntala",
-        "The Cloud-Messenger",
-        "The Dynasty of Raghu",
-        "The Seasons"
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Jataka Tales",
+        "Kalidasa, Shakuntala",
+        "Kalidasa, The Cloud-Messenger",
+        "Kalidasa, The Dynasty of Raghu",
+        "Kalidasa, The Seasons",
+        "Rabindranath Tagore, The Gardener",
+        "Sarojini Naidu, The Golden Threshold"
       ],
       "evidence": {
-        "source": "Shakuntala",
-        "sentence": "The peacock wakes and leaves the cottage thatch;"
+        "source": "Kalidasa, Shakuntala",
+        "sentence": "you will find a painted clay peacock that belongs to the hermit-boy Mankanaka."
+      }
+    },
+    {
+      "name": "pig",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "variants": [
+        "pig"
+      ],
+      "books": [
+        "Jataka Tales"
+      ],
+      "sources": [
+        "Jataka Tales"
+      ],
+      "evidence": {
+        "source": "Jataka Tales",
+        "sentence": "Then her parents thinking, “It will do for a feast of delicacies for the guests who come to the girl’s wedding,” fattened up a pig with boiled rice."
+      }
+    },
+    {
+      "name": "pigeon",
+      "kingdom": "fauna",
+      "category": "bird",
+      "variants": [
+        "pigeon",
+        "pigeons"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Rabindranath Tagore, The Gardener",
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Rabindranath Tagore, The Gardener",
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "evidence": {
+        "source": "Sarojini Naidu, The Golden Threshold",
+        "sentence": "NIGHTFALL IN THE CITY OF HYDERABAD See how the speckled sky burns like a pigeon's throat, Jewelled with embers of opal and peridote."
       }
     },
     {
@@ -680,11 +2064,14 @@
       "variants": [
         "plantain-buds"
       ],
+      "books": [
+        "Kalidasa"
+      ],
       "sources": [
-        "The Cloud-Messenger"
+        "Kalidasa, The Cloud-Messenger"
       ],
       "evidence": {
-        "source": "The Cloud-Messenger",
+        "source": "Kalidasa, The Cloud-Messenger",
         "sentence": "XXI Spying the madder on the banks, half brown, Half green with shoots that struggle to the birth, Nibbling where early plantain-buds hang down, Scenting the sweet, sweet smell of forest earth, The deer will trace thy misty track that ends the dearth."
       }
     },
@@ -695,13 +2082,127 @@
       "variants": [
         "plover"
       ],
+      "books": [
+        "Kalidasa"
+      ],
       "sources": [
-        "Shakuntala",
-        "The Cloud-Messenger"
+        "Kalidasa, Shakuntala",
+        "Kalidasa, The Cloud-Messenger"
       ],
       "evidence": {
-        "source": "Shakuntala",
+        "source": "Kalidasa, Shakuntala",
         "sentence": "Plovers that fly from mountain-caves, Steeds that quick-flashing lightning laves, And chariot-wheels that drip with spray-- A path o'er pregnant clouds betray."
+      }
+    },
+    {
+      "name": "plum",
+      "kingdom": "flora",
+      "category": "tree",
+      "variants": [
+        "plum"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "evidence": {
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "On the other three sides of the talao, mango, jak, plum, orange, lichi, cocoanut, kul, bel, and other fruit-trees grew thickly in rows, looking in the darkness like a wall with an uneven top."
+      }
+    },
+    {
+      "name": "pomegranate",
+      "kingdom": "flora",
+      "category": "tree",
+      "variants": [
+        "pomegranate"
+      ],
+      "books": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "sources": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "evidence": {
+        "source": "Sarojini Naidu, The Golden Threshold",
+        "sentence": "Your beauty wakens with the spring To kindle these pomegranate groves."
+      }
+    },
+    {
+      "name": "poppy",
+      "kingdom": "flora",
+      "category": "flower",
+      "variants": [
+        "poppies",
+        "poppy"
+      ],
+      "books": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "sources": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "evidence": {
+        "source": "Sarojini Naidu, The Golden Threshold",
+        "sentence": "LEILI The serpents are asleep among the poppies, The fireflies light the soundless panther's way To tangled paths where shy gazelles are straying, And parrot-plumes outshine the dying day."
+      }
+    },
+    {
+      "name": "pumpkin",
+      "kingdom": "flora",
+      "category": "crop_or_fruit",
+      "variants": [
+        "pumpkin",
+        "vegetable pumpkins"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "evidence": {
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "Here a cow without an owner is feasting with closed eyes upon the husks of pumpkins, other vegetables, and fruit."
+      }
+    },
+    {
+      "name": "quail",
+      "kingdom": "fauna",
+      "category": "bird",
+      "variants": [
+        "quail",
+        "quails"
+      ],
+      "books": [
+        "Jataka Tales"
+      ],
+      "sources": [
+        "Jataka Tales"
+      ],
+      "evidence": {
+        "source": "Jataka Tales",
+        "sentence": "The sad Quarrel of the Quails."
+      }
+    },
+    {
+      "name": "rat",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "variants": [
+        "rats"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "evidence": {
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "There were jackals in the court-yard, and rats in the granary;"
       }
     },
     {
@@ -709,13 +2210,17 @@
       "kingdom": "flora",
       "category": "herb_or_grass",
       "variants": [
-        "reed"
+        "reed",
+        "reeds"
+      ],
+      "books": [
+        "Kalidasa"
       ],
       "sources": [
-        "The Cloud-Messenger"
+        "Kalidasa, The Cloud-Messenger"
       ],
       "evidence": {
-        "source": "The Cloud-Messenger",
+        "source": "Kalidasa, The Cloud-Messenger",
         "sentence": "its capital Vidisha, on the banks of Reed River."
       }
     },
@@ -724,14 +2229,48 @@
       "kingdom": "flora",
       "category": "crop_or_fruit",
       "variants": [
+        "rice",
         "rice-stems"
       ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Jataka Tales",
+        "Kalidasa",
+        "Rabindranath Tagore, The Gardener",
+        "Sarojini Naidu, The Golden Threshold"
+      ],
       "sources": [
-        "The Seasons"
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Jataka Tales",
+        "Kalidasa, The Seasons",
+        "Rabindranath Tagore, The Gardener",
+        "Sarojini Naidu, The Golden Threshold"
       ],
       "evidence": {
-        "source": "The Seasons",
-        "sentence": "AUTUMN The autumn comes, a maiden fair In slenderness and grace, With nodding rice-stems in her hair And lilies in her face."
+        "source": "Jataka Tales",
+        "sentence": "Those, therefore, who had to travel over it took wood, and water, and oil, and rice in their carts;"
+      }
+    },
+    {
+      "name": "rose",
+      "kingdom": "flora",
+      "category": "flower",
+      "variants": [
+        "rose"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Rabindranath Tagore, The Gardener",
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Rabindranath Tagore, The Gardener",
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "evidence": {
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "I'll fill your flask with attar, And your jar with water of rose, Your box with spice prepared by my own hand.\" The Boisnavi being gone, the women could talk of nothing else for some time."
       }
     },
     {
@@ -741,27 +2280,15 @@
       "variants": [
         "rose-apples"
       ],
+      "books": [
+        "Kalidasa"
+      ],
       "sources": [
-        "The Cloud-Messenger"
+        "Kalidasa, The Cloud-Messenger"
       ],
       "evidence": {
-        "source": "The Cloud-Messenger",
+        "source": "Kalidasa, The Cloud-Messenger",
         "sentence": "XXIII The Dasharna country, At thine approach, Dasharna land is blest With hedgerows where gay buds are all aglow, With village trees alive with many a nest Abuilding by the old familiar crow, With lingering swans, with ripe rose-apples' darker show."
-      }
-    },
-    {
-      "name": "ruddy goose (chakravaka)",
-      "kingdom": "fauna",
-      "category": "bird",
-      "variants": [
-        "ruddy goose"
-      ],
-      "sources": [
-        "Malavika and Agnimitra; Urvashi"
-      ],
-      "evidence": {
-        "source": "Malavika and Agnimitra; Urvashi",
-        "sentence": "He vainly asks help of the creatures whom he meets: a peacock, a cuckoo, a swan, a ruddy goose, a bee, an elephant, a mountain-echo, a river, and an antelope."
       }
     },
     {
@@ -771,30 +2298,118 @@
       "variants": [
         "sacred grass"
       ],
+      "books": [
+        "Kalidasa"
+      ],
       "sources": [
-        "Shakuntala"
+        "Kalidasa, Shakuntala"
       ],
       "evidence": {
-        "source": "Shakuntala",
+        "source": "Kalidasa, Shakuntala",
         "sentence": "(Exeunt ambo.) ACT III THE LOVE-MAKING (Enter a pupil, with sacred grass for the sacrifice.) Pupil (with meditative astonishment)."
+      }
+    },
+    {
+      "name": "saffron",
+      "kingdom": "flora",
+      "category": "flower",
+      "variants": [
+        "saffron"
+      ],
+      "books": [
+        "Rabindranath Tagore, The Gardener"
+      ],
+      "sources": [
+        "Rabindranath Tagore, The Gardener"
+      ],
+      "evidence": {
+        "source": "Rabindranath Tagore, The Gardener",
+        "sentence": "and decorate your footstool with sandal and saffron paste in wondrous designs."
+      }
+    },
+    {
+      "name": "sandalwood",
+      "kingdom": "flora",
+      "category": "tree",
+      "variants": [
+        "sandal",
+        "sandalwood"
+      ],
+      "books": [
+        "Rabindranath Tagore, The Gardener",
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "sources": [
+        "Rabindranath Tagore, The Gardener",
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "evidence": {
+        "source": "Rabindranath Tagore, The Gardener",
+        "sentence": "and decorate your footstool with sandal and saffron paste in wondrous designs."
+      }
+    },
+    {
+      "name": "sheep",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "variants": [
+        "lamb",
+        "lambs",
+        "sheep"
+      ],
+      "books": [
+        "Rabindranath Tagore, The Gardener",
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "sources": [
+        "Rabindranath Tagore, The Gardener",
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "evidence": {
+        "source": "Rabindranath Tagore, The Gardener",
+        "sentence": "Near by a soft-haired lamb stood gazing along the bank."
+      }
+    },
+    {
+      "name": "silk cotton tree",
+      "kingdom": "flora",
+      "category": "tree",
+      "variants": [
+        "silk cotton tree",
+        "silk cotton wood"
+      ],
+      "books": [
+        "Jataka Tales"
+      ],
+      "sources": [
+        "Jataka Tales"
+      ],
+      "evidence": {
+        "source": "Jataka Tales",
+        "sentence": "Now as his chariot went rapidly down the great deep, it passed along the Silk Cotton Tree Forest, and along its route the silk cotton trees were cut down one after another like mere palmyra palms, and fell into the great deep."
       }
     },
     {
       "name": "siris",
       "kingdom": "flora",
-      "category": "flower",
+      "category": "tree",
       "variants": [
         "siris",
         "siris-blossom",
-        "siris-blossoms",
-        "siris-flowers"
+        "siris-flowers",
+        "sirisha"
+      ],
+      "books": [
+        "Kalidasa",
+        "Sarojini Naidu, The Golden Threshold"
       ],
       "sources": [
-        "Shakuntala",
-        "The Cloud-Messenger"
+        "Kalidasa, Shakuntala",
+        "Kalidasa, The Cloud-Messenger",
+        "Sarojini Naidu, The Golden Threshold"
       ],
       "evidence": {
-        "source": "The Cloud-Messenger",
+        "source": "Kalidasa, The Cloud-Messenger",
         "sentence": "Where the autumn lotus in dear fingers shines, And lodh-flowers' April dust on faces rare, Spring amaranth with winter jasmine twines In women's braids, and summer siris fair, The rainy madder in the parting of their hair."
       }
     },
@@ -804,17 +2419,39 @@
       "category": "reptile",
       "variants": [
         "serpent",
-        "snake",
-        "snakes"
+        "snake"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Kalidasa"
       ],
       "sources": [
-        "Shakuntala",
-        "The Birth of the War-god",
-        "The Seasons"
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Kalidasa, Shakuntala",
+        "Kalidasa, The Birth of the War-god",
+        "Kalidasa, The Seasons"
       ],
       "evidence": {
-        "source": "Shakuntala",
+        "source": "Kalidasa, Shakuntala",
         "sentence": "Sun-staring with dim eyes that know no rest, The dead skin of a serpent on his breast: So long he stood unmoved, insensate there That birds build nests within his mat of hair."
+      }
+    },
+    {
+      "name": "sparrow",
+      "kingdom": "fauna",
+      "category": "bird",
+      "variants": [
+        "sparrows"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "sources": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
+      ],
+      "evidence": {
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "pigeons built their nests in the cornices and sparrows in the beams."
       }
     },
     {
@@ -824,11 +2461,16 @@
       "variants": [
         "spiders"
       ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Kalidasa"
+      ],
       "sources": [
-        "The Dynasty of Raghu"
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Kalidasa, The Dynasty of Raghu"
       ],
       "evidence": {
-        "source": "The Dynasty of Raghu",
+        "source": "Kalidasa, The Dynasty of Raghu",
         "sentence": "The windows are not lit by lamps at night, Nor by fair faces shining in the day, But webs of spiders dim the delicate, light Smoke-tracery with one mere daub of grey."
       }
     },
@@ -840,12 +2482,33 @@
         "spring-creeper",
         "spring-creepers"
       ],
+      "books": [
+        "Kalidasa"
+      ],
       "sources": [
-        "Shakuntala"
+        "Kalidasa, Shakuntala"
       ],
       "evidence": {
-        "source": "Shakuntala",
+        "source": "Kalidasa, Shakuntala",
         "sentence": "Here is the spring-creeper that Father Kanva tended with his own hands--just as he did you."
+      }
+    },
+    {
+      "name": "squirrel",
+      "kingdom": "fauna",
+      "category": "mammal",
+      "variants": [
+        "squirrel"
+      ],
+      "books": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "sources": [
+        "Sarojini Naidu, The Golden Threshold"
+      ],
+      "evidence": {
+        "source": "Sarojini Naidu, The Golden Threshold",
+        "sentence": "In what moonlight-tangled meshes of perfume, Where the clustering keovas guard the squirrel's slumber, Where the deep woods glimmer with the jasmine's bloom?"
       }
     },
     {
@@ -855,11 +2518,14 @@
       "variants": [
         "starling"
       ],
+      "books": [
+        "Kalidasa"
+      ],
       "sources": [
-        "The Cloud-Messenger"
+        "Kalidasa, The Cloud-Messenger"
       ],
       "evidence": {
-        "source": "The Cloud-Messenger",
+        "source": "Kalidasa, The Cloud-Messenger",
         "sentence": "Or asks the caged, sweetly-singing starling: \"Do you remember, dear, our lord?"
       }
     },
@@ -871,30 +2537,36 @@
         "swan",
         "swans"
       ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Kalidasa"
+      ],
       "sources": [
-        "Malavika and Agnimitra; Urvashi",
-        "Shakuntala",
-        "The Cloud-Messenger",
-        "The Dynasty of Raghu"
+        "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "Kalidasa, The Cloud-Messenger",
+        "Kalidasa, The Dynasty of Raghu"
       ],
       "evidence": {
-        "source": "Shakuntala",
-        "sentence": "The stream of Malini, and on its sands The swan-pairs resting;"
+        "source": "Kalidasa, The Cloud-Messenger",
+        "sentence": "And when they hear thy welcome thunders break, When mushrooms sprout to greet thy fertile weeks, The swans who long"
       }
     },
     {
-      "name": "tiger",
-      "kingdom": "fauna",
-      "category": "mammal",
+      "name": "tamal",
+      "kingdom": "flora",
+      "category": "tree",
       "variants": [
-        "tiger"
+        "tamal"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
       ],
       "sources": [
-        "The Dynasty of Raghu"
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
       ],
       "evidence": {
-        "source": "The Dynasty of Raghu",
-        "sentence": "On stairways where the women once were glad To leave their pink and graceful footprints, here Unwelcome, blood-stained paws of tigers pad, Fresh-smeared from slaughter of the forest deer."
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "the opposite shore beautiful with tamal and palm trees."
       }
     },
     {
@@ -904,78 +2576,80 @@
       "variants": [
         "trumpet-flower"
       ],
+      "books": [
+        "Kalidasa"
+      ],
       "sources": [
-        "The Seasons"
+        "Kalidasa, The Seasons"
       ],
       "evidence": {
-        "source": "The Seasons",
+        "source": "Kalidasa, The Seasons",
         "sentence": "Dear maiden of the graceful song, To you may summer's power Bring moonbeams clear and garlands long And breath of trumpet-flower, Bring lakes that countless lilies dot, Refreshing water-sprays, Sweet friends at evening, and a spot Cool after burning days."
       }
     },
     {
-      "name": "water-lily",
+      "name": "tulip",
       "kingdom": "flora",
       "category": "flower",
       "variants": [
-        "pink water-lily"
+        "tulip"
+      ],
+      "books": [
+        "Sarojini Naidu, The Golden Threshold"
       ],
       "sources": [
-        "Shakuntala"
+        "Sarojini Naidu, The Golden Threshold"
       ],
       "evidence": {
-        "source": "Shakuntala",
-        "sentence": "But why does she cover her face with fingers lovely as the pink water-lily?"
+        "source": "Sarojini Naidu, The Golden Threshold",
+        "sentence": "Seven new moon tides at the Vesper call, King Feroz led to Queen Gulnaar's hall A young queen eyed like the morning star: \"I bring thee a rival, O Queen Gulnaar.\" But still she gazed in her mirror and sighed: \"O King, my heart is unsatisfied.\" Seven queens shone round her ivory bed, Like seven soft gems on a silken thread, Like seven fair lamps in a royal tower, Like seven bright petals of Beauty's flower Queen Gulnaar sighed like a murmuring rose \"Where is my rival, O King Feroz?\" III When spring winds wakened the mountain floods, And kindled the flame of the tulip buds, When bees grew loud and the days grew long, And the peach groves thrilled to the oriole's song, Queen Gulnaar sat on her ivory bed, Decking with jewels her exquisite head;"
       }
     },
     {
-      "name": "yak",
-      "kingdom": "fauna",
-      "category": "mammal",
+      "name": "tulsi",
+      "kingdom": "flora",
+      "category": "herb_or_grass",
       "variants": [
-        "yak",
-        "yaks"
+        "tulsi"
+      ],
+      "books": [
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
       ],
       "sources": [
-        "Shakuntala",
-        "The Cloud-Messenger"
+        "Bankim Chandra Chattopadhyay, The Poison Tree"
       ],
       "evidence": {
-        "source": "Shakuntala",
-        "sentence": "holy foot-hill lands Of great Himalaya's sacred ranges, where The yaks are seen;"
+        "source": "Bankim Chandra Chattopadhyay, The Poison Tree",
+        "sentence": "Here a company of emaciated Boiragis, with wreaths of tulsi (a sacred plant) round their necks and the marks of their religion painted on their foreheads, the bead fastened into the knot of hair on their heads shaking with each movement, are beating the drums as they sing: \"I could not get the opportunity to speak, The elder brother Dolai was with me.\" The wives of the Boiragis, their hair braided in a manner pleasing to their husbands, are singing the tune of Govinda Adhi Kari to the accompaniment of the tambourine."
+      }
+    },
+    {
+      "name": "water lily",
+      "kingdom": "flora",
+      "category": "flower",
+      "variants": [
+        "water-lily"
+      ],
+      "books": [
+        "Kalidasa"
+      ],
+      "sources": [
+        "Kalidasa, Shakuntala"
+      ],
+      "evidence": {
+        "source": "Kalidasa, Shakuntala",
+        "sentence": "But why does she cover her face with fingers lovely as the pink water-lily?"
       }
     }
   ],
   "decisions": [
     {
-      "candidate": "almond",
-      "decision": [
-        "almond",
-        "flora",
-        "tree"
-      ],
-      "by": "model"
-    },
-    {
       "candidate": "amaranth",
       "decision": [
         "amaranth",
         "flora",
-        "flower"
+        "herb_or_grass"
       ],
-      "by": "model"
-    },
-    {
-      "candidate": "amaranth-bud",
-      "decision": [
-        "amaranth",
-        "flora",
-        "flower"
-      ],
-      "by": "model"
-    },
-    {
-      "candidate": "anklets",
-      "decision": null,
       "by": "model"
     },
     {
@@ -994,15 +2668,10 @@
         "fauna",
         "mammal"
       ],
-      "by": "author"
-    },
-    {
-      "candidate": "arrow",
-      "decision": null,
       "by": "model"
     },
     {
-      "candidate": "ashoka tree",
+      "candidate": "ashoka",
       "decision": [
         "ashoka",
         "flora",
@@ -1014,6 +2683,56 @@
       "candidate": "ashoka-tree",
       "decision": [
         "ashoka",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "asoka",
+      "decision": [
+        "ashoka",
+        "flora",
+        "tree"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "asoka-tree",
+      "decision": [
+        "ashoka",
+        "flora",
+        "tree"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "attar",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "babla tree",
+      "decision": [
+        "babul (acacia)",
+        "flora",
+        "tree"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "bakul",
+      "decision": [
+        "bakul",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "bakul tree",
+      "decision": [
+        "bakul",
         "flora",
         "tree"
       ],
@@ -1038,8 +2757,35 @@
       "by": "model"
     },
     {
-      "candidate": "bark",
+      "candidate": "bambu grove",
       "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "banyan",
+      "decision": [
+        "banyan",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "banyan deer",
+      "decision": [
+        "deer",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "banyan-tree",
+      "decision": [
+        "banyan",
+        "flora",
+        "tree"
+      ],
       "by": "model"
     },
     {
@@ -1050,6 +2796,24 @@
     {
       "candidate": "barken dress",
       "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "barley",
+      "decision": [
+        "barley",
+        "flora",
+        "crop_or_fruit"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "bats",
+      "decision": [
+        "bat",
+        "fauna",
+        "mammal"
+      ],
       "by": "model"
     },
     {
@@ -1080,6 +2844,24 @@
       "by": "model"
     },
     {
+      "candidate": "bel",
+      "decision": [
+        "bel (wood-apple)",
+        "flora",
+        "crop_or_fruit"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "betel-nut",
+      "decision": [
+        "betel-nut",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
       "candidate": "bison",
       "decision": [
         "bison",
@@ -1089,7 +2871,35 @@
       "by": "model"
     },
     {
+      "candidate": "black clouds",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "black owl",
+      "decision": [
+        "owl",
+        "fauna",
+        "bird"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "black panther",
+      "decision": [
+        "panther",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
       "candidate": "blossom-burdened trees",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "blossom-dotted couch",
       "decision": null,
       "by": "author"
     },
@@ -1117,6 +2927,40 @@
       "by": "model"
     },
     {
+      "candidate": "boat",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "bodice",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "bonti",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "bowl",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "branches",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "brinjals",
+      "decision": [
+        "brinjal",
+        "flora",
+        "crop_or_fruit"
+      ],
+      "by": "model"
+    },
+    {
       "candidate": "budding blossoms",
       "decision": null,
       "by": "author"
@@ -1136,6 +2980,43 @@
       "by": "model"
     },
     {
+      "candidate": "bull",
+      "decision": [
+        "bull",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "bulls",
+      "decision": [
+        "bull",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "butterfly",
+      "decision": [
+        "butterfly",
+        "fauna",
+        "insect"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "buttermilk",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "canes",
+      "decision": null,
+      "by": "model"
+    },
+    {
       "candidate": "carp",
       "decision": [
         "carp",
@@ -1145,8 +3026,53 @@
       "by": "model"
     },
     {
-      "candidate": "chariot",
+      "candidate": "casuarina-trees",
+      "decision": [
+        "casuarina",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "cat",
+      "decision": [
+        "cat",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "cats",
+      "decision": [
+        "cat",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "centipedes",
+      "decision": [
+        "centipede",
+        "fauna",
+        "insect"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "chaff",
       "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "champa",
+      "decision": [
+        "champa",
+        "flora",
+        "flower"
+      ],
       "by": "model"
     },
     {
@@ -1155,7 +3081,7 @@
       "by": "model"
     },
     {
-      "candidate": "coals",
+      "candidate": "coal",
       "decision": null,
       "by": "model"
     },
@@ -1169,19 +3095,45 @@
       "by": "model"
     },
     {
+      "candidate": "cockroaches",
+      "decision": [
+        "cockroach",
+        "fauna",
+        "insect"
+      ],
+      "by": "model"
+    },
+    {
       "candidate": "cocoa-nut casket",
       "decision": null,
       "by": "author"
     },
     {
-      "candidate": "columns",
-      "decision": null,
-      "by": "model"
+      "candidate": "cocoanut",
+      "decision": [
+        "coconut",
+        "flora",
+        "tree"
+      ],
+      "by": "author"
     },
     {
-      "candidate": "conch",
-      "decision": null,
-      "by": "model"
+      "candidate": "cocoanut palms",
+      "decision": [
+        "coconut",
+        "flora",
+        "tree"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "cocoanut trees",
+      "decision": [
+        "coconut",
+        "flora",
+        "tree"
+      ],
+      "by": "author"
     },
     {
       "candidate": "coral-tree",
@@ -1202,19 +3154,37 @@
       "by": "model"
     },
     {
+      "candidate": "corn",
+      "decision": [
+        "corn",
+        "flora",
+        "crop_or_fruit"
+      ],
+      "by": "model"
+    },
+    {
       "candidate": "cow",
       "decision": [
         "cow",
         "fauna",
         "mammal"
       ],
-      "by": "author"
+      "by": "model"
+    },
+    {
+      "candidate": "cows",
+      "decision": [
+        "cow",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
     },
     {
       "candidate": "crane",
       "decision": [
         "crane",
-        "flora",
+        "fauna",
         "bird"
       ],
       "by": "model"
@@ -1223,7 +3193,21 @@
       "candidate": "cranes",
       "decision": [
         "crane",
-        "flora",
+        "fauna",
+        "bird"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "creepers",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "crows",
+      "decision": [
+        "crow",
+        "fauna",
         "bird"
       ],
       "by": "model"
@@ -1232,10 +3216,24 @@
       "candidate": "cuckoo",
       "decision": [
         "cuckoo",
-        "flora",
+        "fauna",
         "bird"
       ],
       "by": "model"
+    },
+    {
+      "candidate": "cucumber",
+      "decision": [
+        "cucumber",
+        "flora",
+        "crop_or_fruit"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "curry-stuffs",
+      "decision": null,
+      "by": "author"
     },
     {
       "candidate": "cuscus-salve",
@@ -1243,16 +3241,59 @@
       "by": "model"
     },
     {
+      "candidate": "cut-glass tumbler",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "cutlets",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "dabba grass",
+      "decision": [
+        "durva grass",
+        "flora",
+        "herb_or_grass"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "dahuk",
+      "decision": [
+        "dahuk (waterhen)",
+        "fauna",
+        "bird"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "dead leaves",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "deep river",
+      "decision": null,
+      "by": "model"
+    },
+    {
       "candidate": "deer",
       "decision": [
         "deer",
-        "flora",
+        "fauna",
         "mammal"
       ],
       "by": "model"
     },
     {
-      "candidate": "deodars",
+      "candidate": "demons",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "deodar",
       "decision": [
         "deodar",
         "flora",
@@ -1261,10 +3302,92 @@
       "by": "model"
     },
     {
+      "candidate": "deodar trees",
+      "decision": [
+        "deodar",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "dhadikulas",
+      "decision": [
+        "dhadikula",
+        "fauna",
+        "bird"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "dog",
+      "decision": [
+        "dog",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "dogs",
+      "decision": [
+        "dog",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "door",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "dove",
+      "decision": [
+        "dove",
+        "fauna",
+        "bird"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "doves",
+      "decision": [
+        "dove",
+        "fauna",
+        "bird"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "duck",
+      "decision": [
+        "duck",
+        "fauna",
+        "bird"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "ducks",
+      "decision": [
+        "duck",
+        "fauna",
+        "bird"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "dust",
+      "decision": null,
+      "by": "model"
+    },
+    {
       "candidate": "elephant",
       "decision": [
         "elephant",
-        "flora",
+        "fauna",
         "mammal"
       ],
       "by": "model"
@@ -1273,7 +3396,7 @@
       "candidate": "elephants",
       "decision": [
         "elephant",
-        "flora",
+        "fauna",
         "mammal"
       ],
       "by": "model"
@@ -1284,8 +3407,12 @@
       "by": "model"
     },
     {
-      "candidate": "fairies",
-      "decision": null,
+      "candidate": "fan palm",
+      "decision": [
+        "palm",
+        "flora",
+        "tree"
+      ],
       "by": "model"
     },
     {
@@ -1295,7 +3422,7 @@
         "fauna",
         "mammal"
       ],
-      "by": "author"
+      "by": "model"
     },
     {
       "candidate": "fawns",
@@ -1304,10 +3431,15 @@
         "fauna",
         "mammal"
       ],
-      "by": "author"
+      "by": "model"
     },
     {
       "candidate": "fevered limbs",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "field",
       "decision": null,
       "by": "model"
     },
@@ -1321,14 +3453,66 @@
       "by": "model"
     },
     {
+      "candidate": "fire",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "fireflies",
+      "decision": [
+        "firefly",
+        "fauna",
+        "insect"
+      ],
+      "by": "model"
+    },
+    {
       "candidate": "fires",
       "decision": null,
       "by": "model"
     },
     {
+      "candidate": "firewood",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "flowering shrubs",
+      "decision": null,
+      "by": "author"
+    },
+    {
       "candidate": "flowers of grasses",
       "decision": null,
       "by": "author"
+    },
+    {
+      "candidate": "flute",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "fly",
+      "decision": [
+        "fly",
+        "fauna",
+        "insect"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "forest figs",
+      "decision": [
+        "fig",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "forest-temple",
+      "decision": null,
+      "by": "model"
     },
     {
       "candidate": "frog",
@@ -1340,33 +3524,134 @@
       "by": "model"
     },
     {
-      "candidate": "ganges",
+      "candidate": "ganga",
       "decision": null,
       "by": "model"
     },
     {
-      "candidate": "ganges river",
+      "candidate": "ganges",
       "decision": null,
       "by": "author"
     },
     {
-      "candidate": "girdle",
+      "candidate": "garden trees",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "garland-makers",
       "decision": null,
       "by": "model"
     },
     {
-      "candidate": "goddess",
+      "candidate": "garment",
       "decision": null,
       "by": "model"
     },
     {
-      "candidate": "hermit-girl",
+      "candidate": "gazelles",
+      "decision": [
+        "gazelle",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "ghi",
       "decision": null,
       "by": "model"
     },
     {
-      "candidate": "hermitage",
+      "candidate": "goat",
+      "decision": [
+        "goat",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "gold-coloured mat",
       "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "gomashta",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "goose",
+      "decision": [
+        "goose",
+        "fauna",
+        "bird"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "gourd-flower",
+      "decision": [
+        "gourd",
+        "flora",
+        "crop_or_fruit"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "grey hairs",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "grooms",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "halcyon",
+      "decision": [
+        "halcyon",
+        "fauna",
+        "bird"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "hare",
+      "decision": [
+        "hare",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "hemp",
+      "decision": [
+        "hemp",
+        "flora",
+        "herb_or_grass"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "henna",
+      "decision": [
+        "henna",
+        "flora",
+        "herb_or_grass"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "henna-tree",
+      "decision": [
+        "henna",
+        "flora",
+        "tree"
+      ],
       "by": "model"
     },
     {
@@ -1388,12 +3673,7 @@
       "by": "model"
     },
     {
-      "candidate": "hill",
-      "decision": null,
-      "by": "model"
-    },
-    {
-      "candidate": "himalaya mountains",
+      "candidate": "hira",
       "decision": null,
       "by": "model"
     },
@@ -1401,6 +3681,53 @@
       "candidate": "holiest hermits",
       "decision": null,
       "by": "model"
+    },
+    {
+      "candidate": "holy peak",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "honey",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "horse",
+      "decision": [
+        "horse",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "horses",
+      "decision": [
+        "horse",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "hyacinth",
+      "decision": [
+        "hyacinth",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "ice-cool water",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "insects",
+      "decision": null,
+      "by": "author"
     },
     {
       "candidate": "jackal",
@@ -1421,6 +3748,15 @@
       "by": "model"
     },
     {
+      "candidate": "jak",
+      "decision": [
+        "jackfruit",
+        "flora",
+        "crop_or_fruit"
+      ],
+      "by": "author"
+    },
+    {
       "candidate": "jasmine",
       "decision": [
         "jasmine",
@@ -1436,7 +3772,7 @@
         "flora",
         "flower"
       ],
-      "by": "author"
+      "by": "model"
     },
     {
       "candidate": "jasmine-blossoms",
@@ -1445,7 +3781,7 @@
         "flora",
         "flower"
       ],
-      "by": "author"
+      "by": "model"
     },
     {
       "candidate": "jasmine-vine",
@@ -1454,7 +3790,7 @@
         "flora",
         "creeper"
       ],
-      "by": "author"
+      "by": "model"
     },
     {
       "candidate": "jasmines",
@@ -1466,25 +3802,43 @@
       "by": "model"
     },
     {
-      "candidate": "jujube-trees",
-      "decision": [
-        "jujube",
-        "flora",
-        "tree"
-      ],
-      "by": "author"
-    },
-    {
-      "candidate": "jumna river",
+      "candidate": "jumna",
       "decision": null,
       "by": "model"
     },
     {
-      "candidate": "karkandhu-fruit",
+      "candidate": "kadam",
       "decision": [
-        "jujube",
+        "kadam",
         "flora",
-        "crop_or_fruit"
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "kadam forest",
+      "decision": [
+        "kadam",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "kamala flowers",
+      "decision": [
+        "lotus",
+        "flora",
+        "flower"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "keovas",
+      "decision": [
+        "ketak (screw-pine)",
+        "flora",
+        "flower"
       ],
       "by": "author"
     },
@@ -1507,6 +3861,134 @@
       "by": "author"
     },
     {
+      "candidate": "king of the geese",
+      "decision": [
+        "goose",
+        "flora",
+        "bird"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "kite",
+      "decision": [
+        "kite",
+        "flora",
+        "bird"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "kites",
+      "decision": [
+        "kite",
+        "flora",
+        "bird"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "koel",
+      "decision": [
+        "koel",
+        "fauna",
+        "bird"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "koil",
+      "decision": [
+        "koel",
+        "fauna",
+        "bird"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "kokila",
+      "decision": [
+        "koel",
+        "fauna",
+        "bird"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "kul",
+      "decision": [
+        "jujube",
+        "flora",
+        "crop_or_fruit"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "kunda",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "kurunga",
+      "decision": [
+        "antelope",
+        "fauna",
+        "mammal"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "kusm flowers",
+      "decision": [
+        "kusum",
+        "flora",
+        "flower"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "lac-dye",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "lamb",
+      "decision": [
+        "sheep",
+        "fauna",
+        "mammal"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "lambs",
+      "decision": [
+        "sheep",
+        "fauna",
+        "mammal"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "lessons",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "lichi",
+      "decision": [
+        "lichi",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "lightning",
+      "decision": null,
+      "by": "model"
+    },
+    {
       "candidate": "lilies",
       "decision": [
         "lily",
@@ -1527,7 +4009,7 @@
     {
       "candidate": "lily-dotted lakes",
       "decision": null,
-      "by": "author"
+      "by": "model"
     },
     {
       "candidate": "lily-pollen",
@@ -1542,6 +4024,15 @@
       "candidate": "lily-pond",
       "decision": null,
       "by": "author"
+    },
+    {
+      "candidate": "linseed",
+      "decision": [
+        "linseed",
+        "flora",
+        "crop_or_fruit"
+      ],
+      "by": "model"
     },
     {
       "candidate": "lion",
@@ -1562,11 +4053,20 @@
       "by": "model"
     },
     {
-      "candidate": "lioness",
+      "candidate": "lizard",
       "decision": [
-        "lion",
+        "lizard",
         "fauna",
-        "mammal"
+        "reptile"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "lizards",
+      "decision": [
+        "lizard",
+        "fauna",
+        "reptile"
       ],
       "by": "model"
     },
@@ -1580,7 +4080,25 @@
       "by": "model"
     },
     {
+      "candidate": "lofty banyan-tree",
+      "decision": [
+        "banyan",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
       "candidate": "lotus",
+      "decision": [
+        "lotus",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "lotus stalk",
       "decision": [
         "lotus",
         "flora",
@@ -1591,7 +4109,21 @@
     {
       "candidate": "lotus-bracelet",
       "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "lotus-buds",
+      "decision": [
+        "lotus",
+        "flora",
+        "flower"
+      ],
       "by": "author"
+    },
+    {
+      "candidate": "lotus-chain",
+      "decision": null,
+      "by": "model"
     },
     {
       "candidate": "lotus-flower",
@@ -1600,7 +4132,7 @@
         "flora",
         "flower"
       ],
-      "by": "model"
+      "by": "author"
     },
     {
       "candidate": "lotus-flowers",
@@ -1680,9 +4212,9 @@
       "by": "model"
     },
     {
-      "candidate": "malini",
+      "candidate": "maid",
       "decision": null,
-      "by": "author"
+      "by": "model"
     },
     {
       "candidate": "mango",
@@ -1694,11 +4226,20 @@
       "by": "model"
     },
     {
-      "candidate": "mango branches",
+      "candidate": "mango blossom",
       "decision": [
         "mango",
         "flora",
-        "tree"
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "mango flowers",
+      "decision": [
+        "mango",
+        "flora",
+        "flower"
       ],
       "by": "model"
     },
@@ -1748,8 +4289,54 @@
       "by": "model"
     },
     {
+      "candidate": "mantle",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "mice",
+      "decision": [
+        "mouse",
+        "fauna",
+        "mammal"
+      ],
+      "by": "author"
+    },
+    {
       "candidate": "misfortunes",
       "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "molasses",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "monkey",
+      "decision": [
+        "monkey",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "monkey deer",
+      "decision": [
+        "deer",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "monkeys",
+      "decision": [
+        "monkey",
+        "fauna",
+        "mammal"
+      ],
       "by": "model"
     },
     {
@@ -1758,7 +4345,7 @@
       "by": "model"
     },
     {
-      "candidate": "mountain-echo",
+      "candidate": "mouthpiece",
       "decision": null,
       "by": "model"
     },
@@ -1769,7 +4356,62 @@
         "flora",
         "herb_or_grass"
       ],
+      "by": "model"
+    },
+    {
+      "candidate": "musk-deer",
+      "decision": [
+        "musk deer",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "musk-rats",
+      "decision": [
+        "musk-rat",
+        "fauna",
+        "mammal"
+      ],
       "by": "author"
+    },
+    {
+      "candidate": "mustard",
+      "decision": [
+        "mustard",
+        "flora",
+        "crop_or_fruit"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "nagendra",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "neem",
+      "decision": [
+        "neem",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "nestlings",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "nightingale",
+      "decision": [
+        "nightingale",
+        "fauna",
+        "bird"
+      ],
+      "by": "model"
     },
     {
       "candidate": "nightingales",
@@ -1799,8 +4441,80 @@
       "by": "model"
     },
     {
-      "candidate": "ocean",
+      "candidate": "oil",
       "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "oleander",
+      "decision": [
+        "oleander",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "orange",
+      "decision": [
+        "orange",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "oriole",
+      "decision": [
+        "oriole",
+        "fauna",
+        "bird"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "owls",
+      "decision": [
+        "owl",
+        "fauna",
+        "bird"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "oxen",
+      "decision": [
+        "ox",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "paddy birds",
+      "decision": [
+        "paddy bird (pond heron)",
+        "fauna",
+        "bird"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "palm",
+      "decision": [
+        "palm",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "palm leaf",
+      "decision": [
+        "palm",
+        "flora",
+        "tree"
+      ],
       "by": "model"
     },
     {
@@ -1813,11 +4527,57 @@
       "by": "model"
     },
     {
+      "candidate": "panther",
+      "decision": [
+        "panther",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "papiya",
+      "decision": [
+        "papiya (hawk-cuckoo)",
+        "fauna",
+        "bird"
+      ],
+      "by": "author"
+    },
+    {
       "candidate": "parrot",
       "decision": [
         "parrot",
         "fauna",
         "bird"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "partridge",
+      "decision": [
+        "partridge",
+        "fauna",
+        "bird"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "passion",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "path",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "peach",
+      "decision": [
+        "peach",
+        "flora",
+        "tree"
       ],
       "by": "model"
     },
@@ -1836,28 +4596,45 @@
       "by": "model"
     },
     {
-      "candidate": "perfumed lotus-chain",
-      "decision": null,
-      "by": "author"
-    },
-    {
-      "candidate": "picture",
-      "decision": null,
-      "by": "model"
-    },
-    {
-      "candidate": "pink water-lily",
+      "candidate": "peacocks",
       "decision": [
-        "water-lily",
-        "flora",
-        "flower"
+        "peacock",
+        "fauna",
+        "bird"
       ],
       "by": "model"
     },
     {
-      "candidate": "pious grove",
+      "candidate": "pebble",
       "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "pig",
+      "decision": [
+        "pig",
+        "fauna",
+        "mammal"
+      ],
       "by": "model"
+    },
+    {
+      "candidate": "pigeon",
+      "decision": [
+        "pigeon",
+        "fauna",
+        "bird"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "pigeons",
+      "decision": [
+        "pigeon",
+        "fauna",
+        "bird"
+      ],
+      "by": "author"
     },
     {
       "candidate": "plantain-buds",
@@ -1869,6 +4646,16 @@
       "by": "author"
     },
     {
+      "candidate": "plated jug",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "pleasing",
+      "decision": null,
+      "by": "model"
+    },
+    {
       "candidate": "plover",
       "decision": [
         "plover",
@@ -1878,13 +4665,115 @@
       "by": "model"
     },
     {
-      "candidate": "quiver",
+      "candidate": "plum",
+      "decision": [
+        "plum",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "poisonous trees",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "pollen",
       "decision": null,
       "by": "model"
     },
     {
-      "candidate": "range",
+      "candidate": "pomegranate",
+      "decision": [
+        "pomegranate",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "pond",
       "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "pool",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "poppies",
+      "decision": [
+        "poppy",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "poppy",
+      "decision": [
+        "poppy",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "pot",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "pumpkin",
+      "decision": [
+        "pumpkin",
+        "flora",
+        "crop_or_fruit"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "quail",
+      "decision": [
+        "quail",
+        "fauna",
+        "bird"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "quail-catcher",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "quails",
+      "decision": [
+        "quail",
+        "fauna",
+        "bird"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "rain",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "rainbow",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "rats",
+      "decision": [
+        "rat",
+        "fauna",
+        "mammal"
+      ],
       "by": "model"
     },
     {
@@ -1897,13 +4786,36 @@
       "by": "model"
     },
     {
+      "candidate": "reed river",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "reeds",
+      "decision": [
+        "reed",
+        "flora",
+        "herb_or_grass"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "reptiles",
+      "decision": null,
+      "by": "author"
+    },
+    {
       "candidate": "reva river",
       "decision": null,
       "by": "author"
     },
     {
-      "candidate": "ribbon",
-      "decision": null,
+      "candidate": "rice",
+      "decision": [
+        "rice",
+        "flora",
+        "crop_or_fruit"
+      ],
       "by": "model"
     },
     {
@@ -1916,13 +4828,41 @@
       "by": "model"
     },
     {
+      "candidate": "ring",
+      "decision": null,
+      "by": "model"
+    },
+    {
       "candidate": "river",
       "decision": null,
       "by": "model"
     },
     {
-      "candidate": "roots",
+      "candidate": "roast mutton",
       "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "robes",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "roe",
+      "decision": [
+        "deer",
+        "fauna",
+        "mammal"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "rose",
+      "decision": [
+        "rose",
+        "flora",
+        "flower"
+      ],
       "by": "model"
     },
     {
@@ -1931,20 +4871,6 @@
         "rose-apple",
         "flora",
         "crop_or_fruit"
-      ],
-      "by": "author"
-    },
-    {
-      "candidate": "ruby",
-      "decision": null,
-      "by": "model"
-    },
-    {
-      "candidate": "ruddy goose",
-      "decision": [
-        "ruddy goose (chakravaka)",
-        "fauna",
-        "bird"
       ],
       "by": "author"
     },
@@ -1958,8 +4884,49 @@
       "by": "author"
     },
     {
+      "candidate": "saffron",
+      "decision": [
+        "saffron",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "sandal",
+      "decision": [
+        "sandalwood",
+        "flora",
+        "tree"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "sandalwood",
+      "decision": [
+        "sandalwood",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
       "candidate": "sarasvati",
       "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "sausages",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "sea-gull",
+      "decision": [
+        "gull",
+        "fauna",
+        "bird"
+      ],
       "by": "model"
     },
     {
@@ -1972,18 +4939,35 @@
       "by": "author"
     },
     {
-      "candidate": "serpent-ring",
-      "decision": null,
-      "by": "model"
-    },
-    {
       "candidate": "shade-trees",
       "decision": null,
       "by": "author"
     },
     {
-      "candidate": "shakuntala",
-      "decision": null,
+      "candidate": "sheep",
+      "decision": [
+        "sheep",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "silk cotton tree",
+      "decision": [
+        "silk cotton tree",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "silk cotton wood",
+      "decision": [
+        "silk cotton tree",
+        "flora",
+        "tree"
+      ],
       "by": "model"
     },
     {
@@ -1991,7 +4975,7 @@
       "decision": [
         "siris",
         "flora",
-        "flower"
+        "tree"
       ],
       "by": "model"
     },
@@ -2000,16 +4984,7 @@
       "decision": [
         "siris",
         "flora",
-        "flower"
-      ],
-      "by": "model"
-    },
-    {
-      "candidate": "siris-blossoms",
-      "decision": [
-        "siris",
-        "flora",
-        "flower"
+        "tree"
       ],
       "by": "model"
     },
@@ -2018,9 +4993,18 @@
       "decision": [
         "siris",
         "flora",
-        "flower"
+        "tree"
       ],
       "by": "model"
+    },
+    {
+      "candidate": "sirisha",
+      "decision": [
+        "siris",
+        "flora",
+        "tree"
+      ],
+      "by": "author"
     },
     {
       "candidate": "snake",
@@ -2032,18 +5016,28 @@
       "by": "model"
     },
     {
-      "candidate": "snakes",
+      "candidate": "snare",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "sparrows",
       "decision": [
-        "snake",
+        "sparrow",
         "fauna",
-        "reptile"
+        "bird"
       ],
       "by": "model"
     },
     {
-      "candidate": "somatirtha",
+      "candidate": "spice",
       "decision": null,
-      "by": "model"
+      "by": "author"
+    },
+    {
+      "candidate": "spices",
+      "decision": null,
+      "by": "author"
     },
     {
       "candidate": "spiders",
@@ -2052,6 +5046,16 @@
         "fauna",
         "insect"
       ],
+      "by": "model"
+    },
+    {
+      "candidate": "spirit-stand",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "spring winds",
+      "decision": null,
       "by": "model"
     },
     {
@@ -2073,21 +5077,64 @@
       "by": "author"
     },
     {
+      "candidate": "squire",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "squirrel",
+      "decision": [
+        "squirrel",
+        "fauna",
+        "mammal"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "stag",
+      "decision": [
+        "deer",
+        "fauna",
+        "mammal"
+      ],
+      "by": "author"
+    },
+    {
       "candidate": "starling",
       "decision": [
         "starling",
         "fauna",
         "bird"
       ],
-      "by": "author"
+      "by": "model"
     },
     {
-      "candidate": "stream",
+      "candidate": "sticks",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "straw",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "straw-covered bottles",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "straws",
       "decision": null,
       "by": "model"
     },
     {
       "candidate": "stumbling feet",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "sunrise",
       "decision": null,
       "by": "model"
     },
@@ -2110,18 +5157,56 @@
       "by": "model"
     },
     {
-      "candidate": "thunderbolt",
+      "candidate": "tamal",
+      "decision": [
+        "tamal",
+        "flora",
+        "tree"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "tambourine",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "tawny heifers",
+      "decision": [
+        "cow",
+        "fauna",
+        "mammal"
+      ],
+      "by": "author"
+    },
+    {
+      "candidate": "thorn bush",
       "decision": null,
       "by": "author"
     },
     {
-      "candidate": "tiger",
+      "candidate": "thoroughbreds",
       "decision": [
-        "tiger",
+        "horse",
         "fauna",
         "mammal"
       ],
+      "by": "author"
+    },
+    {
+      "candidate": "thunderbolt",
+      "decision": null,
       "by": "model"
+    },
+    {
+      "candidate": "tilka",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "topmost shoots",
+      "decision": null,
+      "by": "author"
     },
     {
       "candidate": "toughest vine",
@@ -2143,9 +5228,51 @@
       "by": "model"
     },
     {
-      "candidate": "vine-bride",
+      "candidate": "tulip",
+      "decision": [
+        "tulip",
+        "flora",
+        "flower"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "tulsi",
+      "decision": [
+        "tulsi",
+        "flora",
+        "herb_or_grass"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "turban",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "twig",
       "decision": null,
       "by": "author"
+    },
+    {
+      "candidate": "vegetable",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "vegetable pumpkins",
+      "decision": [
+        "pumpkin",
+        "flora",
+        "crop_or_fruit"
+      ],
+      "by": "model"
+    },
+    {
+      "candidate": "vine-bride",
+      "decision": null,
+      "by": "model"
     },
     {
       "candidate": "vines",
@@ -2153,27 +5280,63 @@
       "by": "author"
     },
     {
-      "candidate": "wishing-tree",
+      "candidate": "waggons",
       "decision": null,
       "by": "author"
     },
     {
-      "candidate": "yak",
+      "candidate": "water",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "water-demon",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "water-lily",
       "decision": [
-        "yak",
-        "fauna",
-        "mammal"
+        "water lily",
+        "flora",
+        "flower"
       ],
       "by": "model"
     },
     {
-      "candidate": "yaks",
-      "decision": [
-        "yak",
-        "fauna",
-        "mammal"
-      ],
+      "candidate": "water-plant",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "water-pots",
+      "decision": null,
       "by": "model"
+    },
+    {
+      "candidate": "weeds",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "white-haired woman",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "winds",
+      "decision": null,
+      "by": "model"
+    },
+    {
+      "candidate": "withered leaves",
+      "decision": null,
+      "by": "author"
+    },
+    {
+      "candidate": "yellow bird",
+      "decision": null,
+      "by": "author"
     }
   ]
 }

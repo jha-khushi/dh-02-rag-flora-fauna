@@ -1,7 +1,20 @@
-Loaded 300 passages from 7 texts
-Retrieved 90 unique passages for 12 queries
-  processed 20/90 passages, 43 names so far
-  processed 40/90 passages, 81 names so far
-  processed 60/90 passages, 110 names so far
-  processed 80/90 passages, 137 names so far
-Kept 165 verified names; rejected 4 not found in text
+Loaded 844 passages from 5 books (11 texts)
+/Users/user/Desktop/khushi/digital-humanities-website/assignment_02_rag_flora_fauna/rag_pipeline.py:217: RuntimeWarning: divide by zero encountered in matmul
+  scores = qv @ vectors.T
+/Users/user/Desktop/khushi/digital-humanities-website/assignment_02_rag_flora_fauna/rag_pipeline.py:217: RuntimeWarning: overflow encountered in matmul
+  scores = qv @ vectors.T
+/Users/user/Desktop/khushi/digital-humanities-website/assignment_02_rag_flora_fauna/rag_pipeline.py:217: RuntimeWarning: invalid value encountered in matmul
+  scores = qv @ vectors.T
+Retrieved 238 unique passages for 12 queries
+  processed 20/238 passages, 48 names so far
+  processed 40/238 passages, 76 names so far
+  processed 60/238 passages, 119 names so far
+  processed 80/238 passages, 155 names so far
+  processed 100/238 passages, 172 names so far
+  processed 120/238 passages, 192 names so far
+  processed 140/238 passages, 206 names so far
+  processed 160/238 passages, 253 names so far
+  processed 180/238 passages, 285 names so far
+  processed 200/238 passages, 326 names so far
+  processed 220/238 passages, 350 names so far
+Kept 359 verified names; rejected 33 not found in text
