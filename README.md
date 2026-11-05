@@ -11,20 +11,21 @@ Names of Indian flora and fauna extracted from a repository of five Indian liter
 4. Sarojini Naidu, *The Golden Threshold* (1905)
 5. Rabindranath Tagore, *The Gardener* (1913)
 
-## Pipeline
-| Step | Script |
-|---|---|
-| 1. Pre-process: remove licence text, prefaces, introductions, indexes and footnotes | [preprocess.py](preprocess.py) |
-| 2–6. Chunk, embed (nomic-embed-text), retrieve per book, generate (qwen2.5:7b), verify names against their passage | [rag_pipeline.py](rag_pipeline.py) |
-| 7. Validate with the LLM plus recorded author corrections, then merge variants | [validate_results.py](validate_results.py) |
-| 8. Write flora_fauna.py | [make_flora_fauna.py](make_flora_fauna.py) |
+## RAG pipeline ([rag_pipeline.py](rag_pipeline.py))
 
-Every name has its evidence sentence in [results/validated.json](results/validated.json).
+1. **Chunk:** split each book into overlapping passages of about 250 words.
+2. **Embed:** turn every passage into a vector with `nomic-embed-text`.
+3. **Retrieve:** for each query about plants and animals (trees, flowers, birds, mammals and so on), take the 10 closest passages from each book.
+4. **Generate:** `qwen2.5:7b` reads each retrieved passage and lists the plants and animals named in it.
+
+Both models run locally through Ollama. Each name is kept with the sentence it came from in [results/validated.json](results/validated.json).
 
 ```bash
 ollama pull nomic-embed-text && ollama pull qwen2.5:7b
-python rag_pipeline.py && python validate_results.py && python make_flora_fauna.py
+python rag_pipeline.py
 ```
+
+Charts: `python visualise.py` (writes [figures/](figures/)).
 
 The five books are compared in [dh-06-comparing-books](https://github.com/jha-khushi/dh-06-comparing-books).
 
